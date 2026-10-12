@@ -1,0 +1,11 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "heat": "The Heat's NBA season runs late October to mid April at Kaseya Center, 41 home dates, with the play-in and the playoffs beyond that; the schedule lands in August.",
+  "dolphins": "The Dolphins' season runs September to early January at Hard Rock Stadium, eight or nine home Sundays plus the preseason in August; the schedule is published in May.",
+  "marlins": "The Marlins' season runs late March to late September at loanDepot park, 81 home dates in series of three or four, with the postseason into October; the schedule is out by the autumn before.",
+  "panthers": "The Panthers' NHL season runs early October to mid April at Amerant Bank Arena in Sunrise, 41 home dates, with the Stanley Cup playoffs beyond that; the schedule lands in late June.",
+  "intermiami": "Inter Miami's MLS season runs late February to October at NU Stadium, 17 home matches, with the Leagues Cup in the summer and the MLS Cup playoffs into December; the fixture list arrives over the winter.",
+  "hurricanes": "Hurricanes football runs late August to November at Hard Rock Stadium, six or seven home Saturdays, with the ACC Championship and the bowls or the playoff beyond that.",
+  "hurricanesbasketball": "The Hurricanes' basketball season runs early November to March at the Watsco Center in Coral Gables, with the ACC Tournament and the NCAA Tournament beyond it; the non-conference slate fills in over the summer.",
+  "fiu": "FIU football runs late August to November at Pitbull Stadium, six home Saturdays, with the Conference USA Championship and a bowl beyond that."
+}

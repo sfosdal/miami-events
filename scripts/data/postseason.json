@@ -1,0 +1,248 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-12 (Miami): NFL and NHL rounds as Las Vegas's (the NFL's the league's published 2026 dates), the NBA, MLB, MLS, ACC, Conference USA, the College Football Playoff and the NCAA tournament from the leagues' usual calendars; the 2027 CFP National Championship is at Hard Rock Stadium.",
+ "heat": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "NBA Play-In Tournament",
+    "start": "2027-04-13",
+    "end": "2027-04-16",
+    "tbd": true
+   },
+   {
+    "name": "NBA Playoffs, first round",
+    "start": "2027-04-17",
+    "end": "2027-05-02",
+    "tbd": true
+   },
+   {
+    "name": "Conference Semifinals",
+    "start": "2027-05-03",
+    "end": "2027-05-17",
+    "tbd": true
+   },
+   {
+    "name": "Eastern Conference Finals",
+    "start": "2027-05-18",
+    "end": "2027-06-01",
+    "tbd": true
+   },
+   {
+    "name": "NBA Finals",
+    "start": "2027-06-03",
+    "end": "2027-06-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "dolphins": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2027-01-16",
+    "end": "2027-01-18"
+   },
+   {
+    "name": "Divisional",
+    "start": "2027-01-23",
+    "end": "2027-01-24"
+   },
+   {
+    "name": "AFC Championship",
+    "start": "2027-01-31",
+    "end": "2027-01-31"
+   },
+   {
+    "name": "Super Bowl LXI",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "site": "SoFi Stadium, Inglewood",
+    "final": true
+   }
+  ]
+ },
+ "marlins": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card Series",
+    "start": "2026-09-29",
+    "end": "2026-10-01",
+    "tbd": true
+   },
+   {
+    "name": "Division Series",
+    "start": "2026-10-03",
+    "end": "2026-10-11",
+    "tbd": true
+   },
+   {
+    "name": "NLCS",
+    "start": "2026-10-12",
+    "end": "2026-10-21",
+    "tbd": true
+   },
+   {
+    "name": "World Series",
+    "start": "2026-10-23",
+    "end": "2026-11-01",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "panthers": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Stanley Cup Playoffs, first round",
+    "start": "2027-04-12",
+    "end": "2027-04-30",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-05-01",
+    "end": "2027-05-15",
+    "tbd": true
+   },
+   {
+    "name": "Conference Final",
+    "start": "2027-05-16",
+    "end": "2027-06-01",
+    "tbd": true
+   },
+   {
+    "name": "Stanley Cup Final",
+    "start": "2027-06-03",
+    "end": "2027-06-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "intermiami": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "MLS Cup Playoffs, Wild Card",
+    "start": "2026-10-28",
+    "end": "2026-10-29",
+    "tbd": true
+   },
+   {
+    "name": "Round One (best of three)",
+    "start": "2026-10-31",
+    "end": "2026-11-22",
+    "tbd": true
+   },
+   {
+    "name": "Conference Semifinals",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "tbd": true
+   },
+   {
+    "name": "Eastern Conference Final",
+    "start": "2026-12-05",
+    "end": "2026-12-06",
+    "tbd": true
+   },
+   {
+    "name": "MLS Cup",
+    "start": "2026-12-12",
+    "end": "2026-12-12",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "hurricanes": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "ACC Championship Game",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true,
+    "site": "Bank of America Stadium, Charlotte"
+   },
+   {
+    "name": "College Football Playoff, first round",
+    "start": "2026-12-19",
+    "end": "2026-12-20",
+    "tbd": true
+   },
+   {
+    "name": "Quarterfinals",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2027-01-08",
+    "end": "2027-01-09",
+    "tbd": true
+   },
+   {
+    "name": "National Championship",
+    "start": "2027-01-18",
+    "end": "2027-01-18",
+    "tbd": true,
+    "site": "Hard Rock Stadium, Miami Gardens",
+    "final": true
+   }
+  ]
+ },
+ "hurricanesbasketball": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "ACC Tournament",
+    "start": "2027-03-09",
+    "end": "2027-03-13",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Sweet 16 and Elite Eight",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "fiu": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Conference USA Championship",
+    "start": "2026-12-04",
+    "end": "2026-12-05",
+    "tbd": true
+   },
+   {
+    "name": "Bowl season",
+    "start": "2026-12-13",
+    "end": "2027-01-02",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}
