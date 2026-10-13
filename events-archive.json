@@ -1,0 +1,121 @@
+{
+ "events": [
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Austin FC",
+   "date": "2026-04-04",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Red Bull New York",
+   "date": "2026-04-11",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs New England Revolution",
+   "date": "2026-04-25",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Orlando City SC",
+   "date": "2026-05-02",
+   "time": "19:15:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Portland Timbers",
+   "date": "2026-05-17",
+   "time": "18:00:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Philadelphia Union",
+   "date": "2026-05-24",
+   "time": "19:00:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Chicago Fire FC",
+   "date": "2026-07-22",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Columbus Crew",
+   "date": "2026-08-01",
+   "time": "20:10:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Toronto FC",
+   "date": "2026-08-22",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs CF Montréal",
+   "date": "2026-08-29",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Atlanta United FC",
+   "date": "2026-09-05",
+   "time": "21:05:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs Nashville SC",
+   "date": "2026-09-12",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs San Diego FC",
+   "date": "2026-09-20",
+   "time": "19:00:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Inter Miami CF vs D.C. United",
+   "date": "2026-10-10",
+   "time": "19:30:00",
+   "url": "https://www.intermiamicf.com/tickets/",
+   "type": "sports"
+  }
+ ]
+}
