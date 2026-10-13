@@ -311,6 +311,7 @@
     site: 'https://miami.here.events/',
     userAgent: 'Mozilla/5.0 (compatible; miami-events/1.0; +https://miami.here.events/)',
     tz: 'America/New_York', tzName: 'Eastern', // the city's time zone: the ICS feed's TZID, the game clocks, the poster's footer
+    state: "Florida", stateOutline: 'M2.3 5.0L2.5 4.7L2.5 4.1L2.0 3.4L3.7 3.1L6.3 3.1L8.9 3.1L9.2 4.0L10.3 4.1L11.6 4.1L12.8 4.2L14.1 4.3L15.3 4.4L16.2 4.6L16.3 5.0L16.7 4.9L16.7 4.2L16.9 3.8L17.1 3.7L18.3 4.2L18.8 6.8L20.6 10.5L20.6 11.1L20.7 12.0L20.5 11.7L20.4 10.6L20.3 11.2L20.3 10.5L20.0 10.1L19.9 9.9L20.1 11.1L21.5 14.6L22.0 15.8L21.8 18.7L21.7 18.6L21.2 20.0L20.6 20.6L19.4 20.9L19.0 20.4L19.6 20.6L19.3 20.2L18.6 19.1L17.6 18.3L17.0 16.8L17.3 16.2L16.9 16.6L16.6 16.1L16.6 15.3L16.3 15.7L15.9 15.4L15.1 13.9L15.1 13.6L15.8 12.7L15.5 12.6L15.1 12.3L15.2 12.6L15.1 13.1L14.8 13.0L14.8 11.5L15.1 9.8L13.4 7.8L10.7 6.0L10.6 6.4L10.1 6.5L9.0 6.9L8.0 7.1L7.8 6.6L8.1 6.9L7.6 6.2L7.3 5.7L7.3 5.3L6.9 5.6L6.6 5.5L5.6 4.9L5.8 4.8L5.1 4.7L4.5 5.0L3.2 5.0L3.7 4.7L3.4 4.7L3.1 4.8L2.3 5.3L2.4 5.0Z', // the masthead's small state, linking to here.events (scripts/state-outline.mjs, Natural Earth 1:50m)
     // the calendar feed's header; the UID domain never changes (changing it
     // re-creates every event in subscribers' calendars)
     ics: { name: 'Miami Events', short: 'Miami Events', teams: 'Miami home teams — every season', prodid: '-//here.events//miami-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
