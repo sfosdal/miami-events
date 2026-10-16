@@ -172,6 +172,53 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/freya-skye-stars-align-tour-hollywood-florida-10-14-2026/event/0D00644BB1727EF8",
    "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Vancouver Canucks",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SNP",
+     "TVAS",
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Toadies: The Charmer Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/toadies-the-charmer-tour-ft-lauderdale-florida-10-15-2026/event/0D006497B40BAF6B",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Buena Vista Social Club (Touring)",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/buena-vista-social-club-touring-ft-lauderdale-florida-10-15-2026/event/0D0064EE8DA84CD4",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-15",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-15-2026/event/0D006436A75744B4",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Def Leppard",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/def-leppard-hollywood-florida-10-15-2026/event/0D0064BCDD61E246",
+   "type": "concert"
   }
  ]
 }
