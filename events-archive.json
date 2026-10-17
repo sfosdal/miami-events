@@ -219,6 +219,54 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/def-leppard-hollywood-florida-10-15-2026/event/0D0064BCDD61E246",
    "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Arch Enemy & The Black Dahlia Murder: Wrath Across North America 2026",
+   "date": "2026-10-16",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/arch-enemy-the-black-dahlia-murder-ft-lauderdale-florida-10-16-2026/event/0D0064B2B94C82B2",
+   "type": "concert"
+  },
+  {
+   "venue": "Adrienne Arsht Center",
+   "title": "Miami City Ballet",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "http://www.arshtcenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Journey",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-16",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-16-2026/event/0D006436A75B44C5",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Dalvin La Melodia",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dalvin-la-melodia-hollywood-florida-10-16-2026/event/0D006504D9447FE1",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Buena Vista Social Club (Touring)",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/buena-vista-social-club-touring-ft-lauderdale-florida-10-16-2026/event/0D0064EE8DAC4CE7",
+   "type": "arts"
   }
  ]
 }
