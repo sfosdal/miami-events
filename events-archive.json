@@ -267,6 +267,89 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/buena-vista-social-club-touring-ft-lauderdale-florida-10-16-2026/event/0D0064EE8DAC4CE7",
    "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-17",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-17-2026/event/0D006436A76044E1",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Buena Vista Social Club (Touring)",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/buena-vista-social-club-touring-ft-lauderdale-florida-10-17-2026/event/0D0064EE8DB14D03",
+   "type": "arts"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Seattle Kraken",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "Hard Rock Stadium",
+   "title": "Miami Hurricanes vs Florida State Seminoles",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-vs-florida-state-seminoles-miami-florida-10-17-2026/event/0D0064FCBFB26F1D",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN",
+     "Disney+"
+    ]
+   }
+  },
+  {
+   "venue": "Pitbull Stadium",
+   "title": "Miami FC vs. Charleston Battery",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://fiusports.com/sports/football/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Adrienne Arsht Center",
+   "title": "Miami City Ballet",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "http://www.arshtcenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-17",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-17-2026/event/0D006436A76444F6",
+   "type": "arts"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "iHeartRadio Fiesta Latina",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/iheartradio-fiesta-latina-miami-florida-10-17-2026/event/0D0064C58CC07B23",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Buena Vista Social Club (Touring)",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/buena-vista-social-club-touring-ft-lauderdale-florida-10-17-2026/event/0D0064EE8DB54D0F",
+   "type": "arts"
   }
  ]
 }
