@@ -443,6 +443,43 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/the-doobie-brothers-walk-this-road-hollywood-florida-10-20-2026/event/0D006478A5AE8BB7",
    "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "All Elite Wrestling Presents DYNAMITE",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/all-elite-wrestling-presents-dynamite-coral-gables-florida-10-21-2026/event/0D00650AD5D78469",
+   "type": "sports"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "EsDeeKid - Council House Rat Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-ft-lauderdale-florida-10-21-2026/event/0D0064F0E87DAA1D",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Minnesota Timberwolves",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-minnesota-timberwolves-miami-florida-10-21-2026/event/0D00650C8C083749",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-21",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-21-2026/event/0D006436A777457B",
+   "type": "arts"
   }
  ]
 }
