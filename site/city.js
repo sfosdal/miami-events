@@ -77,7 +77,7 @@
     // men's, so the schedule is injected
     { slug: 'hurricanesbasketball', label: 'Hurricanes Basketball', name: 'Miami Hurricanes', abbr: 'MIA', re: /hurricanes (men'?s )?basketball/i, sport: 'basketball', venue: 'Watsco Center', colors: ['#005030', '#f47321'],
       espn: { sport: 'basketball', league: 'mens-college-basketball', id: '2390' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { url: 'https://miamihurricanes.com/sports/mens-basketball/tickets', name: "Miami Hurricanes Men's Basketball" }, // the injected titles say which program, since the football pattern owns "Miami Hurricanes vs …" (Hard Rock Stadium's Ticketmaster titles)
+      inject: { url: 'https://miamihurricanes.com/sports/mbball/schedule', name: "Miami Hurricanes Men's Basketball" }, // the injected titles say which program, since the football pattern owns "Miami Hurricanes vs …" (Hard Rock Stadium's Ticketmaster titles)
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png', schedule: 'https://miamihurricanes.com/sports/mens-basketball/schedule',
       club: "Miami Hurricanes Men's Basketball", opens: 'early November', wiki: { title: "Miami Hurricanes men's basketball", teamPage: true } },
     // FIU Panthers football, Conference USA, Pitbull Stadium — Ticketmaster lists the home games
