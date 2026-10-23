@@ -480,6 +480,47 @@
    "time": "19:45:00",
    "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-21-2026/event/0D006436A777457B",
    "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away - Smart Stage Matinee Series",
+   "date": "2026-10-22",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-22-2026/event/0D0064B2A6DB6B9E",
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Yung Gravy: The Joyrider Tour",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-ft-lauderdale-florida-10-22-2026/event/0D006515FC6B7B8C",
+   "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Premios Billboard De La Musica Latina",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/premios-billboard-de-la-musica-latina-miami-florida-10-22-2026/event/0D006530893148E5",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-22",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-22-2026/event/0D006436A77B4594",
+   "type": "arts"
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Alvaro Diaz - Omakase Tour",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alvaro-diaz-omakase-tour-miami-beach-florida-10-22-2026/event/0D0064C4D5B83AA7",
+   "type": "concert"
   }
  ]
 }
