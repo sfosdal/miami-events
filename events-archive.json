@@ -521,6 +521,39 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/alvaro-diaz-omakase-tour-miami-beach-florida-10-22-2026/event/0D0064C4D5B83AA7",
    "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Teddy Swims",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-23",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-23-2026/event/0D006436A78045AB",
+   "type": "arts"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Detroit Pistons",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-detroit-pistons-miami-florida-10-23-2026/event/0D00650C8C0D3750",
+   "type": "sports"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": " Olivia Rodrigo Night",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/olivia-rodrigo-night-ft-lauderdale-florida-10-23-2026/event/0D006523EF0E55D9",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
