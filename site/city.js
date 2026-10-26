@@ -314,10 +314,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Miami', // the board drops it from the clubs' names ("Miami Heat" → Heat; the Panthers, Inter Miami and FIU keep theirs)
-    presetDefault: 'Every room — Hard Rock Stadium, the arenas, the ballpark, the halls in Miami and the rooms in Broward — every team and type',
+    presetDefault: 'Every venue — Hard Rock Stadium, the arenas, the ballpark, the halls in Miami and the venues in Broward — every team and type',
     presetNeighborhood: 'Miami only',
     presetBig: 'Only the places that hold 2,000 or more — the stadiums, the arenas, the ballpark, the amphitheaters and the halls',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Miami only.', big: 'Showing the big rooms only — the stadiums, the arenas, the ballpark, the amphitheaters and the halls.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Miami only.', big: 'Showing the big venues only — the stadiums, the arenas, the ballpark, the amphitheaters and the halls.' },
   };
 
   global.LQACity = {
