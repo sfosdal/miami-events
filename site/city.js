@@ -111,6 +111,7 @@
   var VENUES = {
     // --- Miami: Hard Rock Stadium, Kaseya Center, loanDepot park, NU Stadium, the Arsht Center, Bayfront Park, the Knight Center, the Fillmore, the Watsco Center, Pitbull Stadium ---
     'Hard Rock Stadium': {
+      geo: [25.95793, -80.23887],
       capacity: 65326,
       type: 'sports',
       cssVar: '--v-hardrock',
@@ -121,6 +122,7 @@
       alias: /hard rock stadium/i,
     },
     'Kaseya Center': {
+      geo: [25.78123, -80.1878],
       capacity: 19600,
       type: 'sports',
       cssVar: '--v-kaseya',
@@ -131,6 +133,7 @@
       alias: /kaseya center|ftx arena|americanairlines arena/i,
     },
     'loanDepot park': {
+      geo: [25.77805, -80.21972],
       capacity: 37000,
       type: 'sports',
       cssVar: '--v-loandepot',
@@ -141,6 +144,7 @@
       alias: /loandepot park|marlins park/i,
     },
     'NU Stadium': {
+      geo: [25.79268, -80.25941],
       capacity: 25000,
       type: 'sports',
       cssVar: '--v-nustadium',
@@ -151,6 +155,7 @@
       alias: /nu stadium|miami freedom park/i,
     },
     'Adrienne Arsht Center': {
+      geo: [25.7849, -80.1896],
       capacity: 2400,
       type: 'arts',
       cssVar: '--v-arsht',
@@ -161,6 +166,7 @@
       alias: /arsht center|knight concert hall|ziff ballet opera house/i,
     },
     'FPL Solar Amphitheater': {
+      geo: [25.77622, -80.18602],
       capacity: 10000,
       type: 'concert',
       cssVar: '--v-bayfront',
@@ -171,6 +177,7 @@
       alias: /fpl solar amphitheater|bayfront park/i,
     },
     'James L. Knight Center': {
+      geo: [25.77078, -80.19012],
       capacity: 4600,
       type: 'concert',
       cssVar: '--v-knight',
@@ -181,6 +188,7 @@
       alias: /knight center/i,
     },
     'The Fillmore Miami Beach': {
+      geo: [25.79292, -80.13314],
       capacity: 2700,
       type: 'concert',
       cssVar: '--v-fillmore',
@@ -191,6 +199,7 @@
       alias: /fillmore miami beach|jackie gleason theater/i,
     },
     'Watsco Center': {
+      geo: [25.71508, -80.27918],
       capacity: 8000,
       type: 'concert',
       cssVar: '--v-watsco',
@@ -201,6 +210,7 @@
       alias: /watsco center|bankunited center/i,
     },
     'Pitbull Stadium': {
+      geo: [25.75254, -80.37801],
       capacity: 20000,
       type: 'sports',
       cssVar: '--v-pitbull',
@@ -212,6 +222,7 @@
     },
     // --- Broward & beyond (`area: 'town'`): Sunrise's arena, Hollywood's Hard Rock, Fort Lauderdale's Broward Center and Revolution Live, Pompano Beach's amphitheater ---
     'Amerant Bank Arena': {
+      geo: [26.15536, -80.33023],
       area: 'town',
       capacity: 19250,
       type: 'sports',
@@ -223,6 +234,7 @@
       alias: /amerant bank arena|fla live arena|bb&t center/i,
     },
     'Hard Rock Live': {
+      geo: [26.05034, -80.21096],
       area: 'town',
       capacity: 7000,
       type: 'concert',
@@ -234,6 +246,7 @@
       alias: /hard rock live/i,
     },
     'Broward Center': {
+      geo: [26.1193, -80.14943],
       area: 'town',
       capacity: 2700,
       type: 'arts',
@@ -245,6 +258,7 @@
       alias: /broward center|au-rene theater|amaturo theater/i,
     },
     'Revolution Live': {
+      geo: [26.12109, -80.14616],
       area: 'town',
       capacity: 1300,
       type: 'concert',
@@ -256,6 +270,7 @@
       alias: /revolution live/i,
     },
     'Pompano Beach Amphitheater': {
+      geo: [26.24001, -80.1059],
       area: 'town',
       capacity: 3000,
       type: 'concert',
@@ -317,6 +332,21 @@
     ics: { name: 'Miami Events', short: 'Miami Events', teams: 'Miami home teams — every season', prodid: '-//here.events//miami-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Miami\\, FL — Hard Rock Stadium\\, Kaseya Center\\, loanDepot park\\, NU Stadium\\, the Arsht Center and the rooms from Miami Beach to Fort Lauderdale' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [25.636, -80.419, 26.319, -80.065], // south, west, north, east — every room, with a margin
+      home: [25.696, -80.316, 25.812, -80.097], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Miami', lat: 25.775, lon: -80.194, anchor: 'middle' },
+        { name: 'Miami Beach', lat: 25.79292, lon: -80.1353, anchor: 'middle' },
+        { name: 'Coral Gables', lat: 25.73311, lon: -80.25851, anchor: 'middle' },
+        { name: 'Sunrise', lat: 26.16669, lon: -80.27876, anchor: 'middle' },
+        { name: 'Hollywood', lat: 26.0112, lon: -80.14949, anchor: 'middle' },
+        { name: 'Pompano Beach', lat: 26.23786, lon: -80.12477, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
