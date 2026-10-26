@@ -624,6 +624,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/blake-shelton-hollywood-florida-10-24-2026/event/0D0064AB9A656C3A",
    "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Miami City Ballet: American Rhythms (Fall Mix)",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/miami-city-ballet-american-rhythms-fall-ft-lauderdale-florida-10-25-2026/event/0D00651FD1239C34",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Slow Burn Theatre Co: Come From Away",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/slow-burn-theatre-co-come-from-ft-lauderdale-florida-10-25-2026/event/0D006436A78E4609",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Miami City Ballet: American Rhythms (Fall Mix)",
+   "date": "2026-10-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/miami-city-ballet-american-rhythms-fall-ft-lauderdale-florida-10-25-2026/event/0D00651FD1269C39",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Brand New",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/brand-new-hollywood-florida-10-25-2026/event/0D0064CAC7BCCB0D",
+   "type": "concert"
   }
  ]
 }
