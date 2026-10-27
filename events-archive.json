@@ -656,6 +656,35 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/brand-new-hollywood-florida-10-25-2026/event/0D0064CAC7BCCB0D",
    "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Dallas Mavericks",
+   "date": "2026-10-26",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-dallas-mavericks-miami-florida-10-26-2026/event/0D00650C8E8E3B23",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBA TV"
+    ]
+   }
+  },
+  {
+   "venue": "FPL Solar Amphitheater",
+   "title": "Steve Lacy: Oh yeah? Tour",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/steve-lacy-oh-yeah-tour-miami-florida-10-26-2026/event/0D006505BD856502",
+   "type": "concert"
+  },
+  {
+   "venue": "Pompano Beach Amphitheater",
+   "title": "Cake",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.theamppompano.org/",
+   "type": "concert"
   }
  ]
 }
