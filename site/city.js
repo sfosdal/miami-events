@@ -119,6 +119,12 @@
       url: 'https://www.hardrockstadium.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.hardrockstadium.com&sz=128',
       tm: { id: 'KovZpZAEkvtA', match: 'hard rock stadium', fallbackUrl: 'https://www.hardrockstadium.com/events/', exclude: /luxury & suites|suite|parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?|hotel package|tailgate/i },
+      // the stadium's own page: the games are Ticketmaster's rows (and the Teams schedules), so a card's category
+      // class stands in for its venue name (`item` is a lookahead so the split keeps it) and `venues` keeps the rest — the Grand Prix,
+      // the Orange Bowl, the Dolphins Cancer Challenge; the concert and Miami Open cards print a date span and no clock, and Ticketmaster
+      // carries every show and every session, so they are left to it too
+      feed: { kind: 'cards', url: 'https://www.hardrockstadium.com/events/', secondary: true,
+        item: /(?=<div class="fusion-layout-column[^"]*\bevent-card\b)/, title: /href="([^"]+)"[\s\S]*?<h6[^>]*>(?:<[^>]+>\s*)*([^<]+)</, when: /class="fusion-text[^"]*"[^>]*>\s*(?:<[^>]+>\s*)*([^<]+)</, place: /\bevent-card ([a-z-]+)/, venues: /^(?!(?:um|dolphins)-game$|concert$|miami-open$)/ },
       alias: /hard rock stadium/i,
     },
     'Kaseya Center': {
@@ -130,6 +136,7 @@
       url: 'https://www.kaseyacenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.kaseyacenter.com&sz=128',
       tm: { id: 'KovZpZAJtFaA', match: 'kaseya', fallbackUrl: 'https://www.kaseyacenter.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
+      feed: { kind: 'rss', url: 'https://www.kaseyacenter.com/events/rss', secondary: true, drop: /all-access tour|parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /kaseya center|ftx arena|americanairlines arena/i,
     },
     'loanDepot park': {
@@ -152,6 +159,9 @@
       url: 'https://www.intermiamicf.com/nu-stadium/',
       icon: 'https://www.google.com/s2/favicons?domain=www.intermiamicf.com&sz=128',
       tm: { id: 'KovZ917AYfq', match: 'nu stadium', fallbackUrl: 'https://www.intermiamicf.com/nu-stadium/', exclude: /parking|suite|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?|hotel package/i },
+      // the stadium's own listing, server-rendered from its Ticketmaster block: "WED, OCT 28 | 7:30 PM EDT" and the name
+      feed: { kind: 'cards', url: 'https://nustadium.com/events/', secondary: true,
+        item: /<article class="uv-ticketmaster-event"/, title: /(?=[\s\S]*?href="([^"]+)")[\s\S]*?uv-ticketmaster-event__name">([^<]+)</, when: /uv-ticketmaster-event__date">([^<]+)</ },
       alias: /nu stadium|miami freedom park/i,
     },
     'Adrienne Arsht Center': {
@@ -174,6 +184,7 @@
       url: 'https://www.bayfrontparkmiami.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.bayfrontparkmiami.com&sz=128',
       tm: { id: 'KovZpZAEAFAA', match: 'bayfront', fallbackUrl: 'https://www.bayfrontparkmiami.com/events/', exclude: /parking|vip (add-on|upgrade|package)/i },
+      feed: { kind: 'squarespace', url: 'https://www.bayfrontparkmiami.com/events/', secondary: true, venues: /fpl|bayfront park/i }, // the park trust's Squarespace calendar; its Maurice A. Ferré Park rows are another park's
       alias: /fpl solar amphitheater|bayfront park/i,
     },
     'James L. Knight Center': {
@@ -185,6 +196,7 @@
       url: 'https://jlkc.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=jlkc.com&sz=128',
       tm: { id: 'KovZpZAJvnAA', match: 'knight center', fallbackUrl: 'https://jlkc.com/events/', exclude: /parking|vip (add-on|upgrade|package)/i },
+      feed: { kind: 'tribe', url: 'https://jlkc.com/wp-json/tribe/events/v1/events', secondary: true }, // the center's WordPress calendar
       alias: /knight center/i,
     },
     'The Fillmore Miami Beach': {
@@ -207,6 +219,7 @@
       url: 'https://www.watscocenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.watscocenter.com&sz=128',
       tm: { id: 'KovZpZAEkAdA', match: 'watsco', fallbackUrl: 'https://www.watscocenter.com/events', exclude: /parking|suite/i },
+      feed: { kind: 'rss', url: 'https://www.watscocenter.com/events/rss', secondary: true, drop: /parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /watsco center|bankunited center/i,
     },
     'Pitbull Stadium': {
@@ -218,6 +231,8 @@
       url: 'https://fiusports.com/sports/football/schedule',
       icon: 'https://www.google.com/s2/favicons?domain=fiusports.com&sz=128',
       tm: { id: 'KovZpZAJtF1A', match: 'pitbull', fallbackUrl: 'https://fiusports.com/sports/football/schedule', exclude: /parking|suite|tailgate/i },
+      // FIU's Sidearm calendar, the stadium's dates only; the result tag and the promo suffix come off the title ("[W] FIU Football vs X - Homecoming")
+      feed: { kind: 'icsfile', url: 'https://fiusports.com/calendar.ics', secondary: true, venues: /pitbull stadium/i, rename: [[/^\[[A-Z]\]\s*/, ''], [/\s+(?:-|–|--)\s+.*$/, '']] },
       alias: /pitbull stadium|fiu stadium|riccardo silva stadium/i,
     },
     // --- Broward & beyond (`area: 'town'`): Sunrise's arena, Hollywood's Hard Rock, Fort Lauderdale's Broward Center and Revolution Live, Pompano Beach's amphitheater ---
@@ -231,6 +246,7 @@
       url: 'https://www.amerantbankarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.amerantbankarena.com&sz=128',
       tm: { id: 'KovZpZAEeavA', match: 'amerant', fallbackUrl: 'https://www.amerantbankarena.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
+      feed: { kind: 'rss', url: 'https://www.amerantbankarena.com/events/rss', secondary: true, drop: /parking|suite|hotel package|arena tours?|\b[a-z]{3} vs fla\b/i }, // the arena's own listing (carbonhouse); the Panthers' games ("DET vs FLA", a theme night in front) are the NHL schedule's rows
       alias: /amerant bank arena|fla live arena|bb&t center/i,
     },
     'Hard Rock Live': {
@@ -243,6 +259,11 @@
       url: 'https://casino.hardrock.com/hollywood/entertainment/hard-rock-live',
       icon: 'https://www.google.com/s2/favicons?domain=casino.hardrock.com&sz=128',
       tm: { id: 'KovZpZA6AEaA', match: 'hard rock live', fallbackUrl: 'https://casino.hardrock.com/hollywood/entertainment/hard-rock-live', exclude: /parking|hotel package|vip (add-on|upgrade|package)/i },
+      // the casino's Sitecore search answers the whole upcoming list as JSON-wrapped cards (the page itself renders a
+      // carousel of the first few); `venues` keeps Hard Rock Live's out of the pool parties; the card prints no year
+      feed: { kind: 'cards', secondary: true,
+        url: 'https://casino.hardrock.com/en/hollywood/sxa/search/results/?s=%7B97C57FBA-7374-4444-8C49-E4ADA1F1452C%7D&itemid=%7BB0BA3C4E-ED00-40D7-8B2D-C1C347DCC93A%7D&sig=upcomingevents&autoFireSearch=true&v=%7BEE158909-BE75-43B7-B2DC-4D16E047CCE8%7D&p=100&e=0&l=en&z=0',
+        item: /ccard jsCard eventCard/, title: /(?=[\s\S]*?ccard--event__btn-buy[^>]*?href=\\"([^"\\]+))[\s\S]*?ccard--event__title[^>]*>([^<]*)/, when: /ccard--event__time__wrap\\">(?:\\r\\n|\s)*([^<\\]+)/, place: /ccard--event__venue\\">([^<]*)/, venues: /hard rock live/i },
       alias: /hard rock live/i,
     },
     'Broward Center': {
@@ -255,6 +276,7 @@
       url: 'https://www.browardcenter.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.browardcenter.org&sz=128',
       tm: { id: 'KovZpZA7AeJA,KovZpZAEvnlA,KovZpZAEeadA', match: 'broward center', fallbackUrl: 'https://www.browardcenter.org/events', exclude: /parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i }, // the Au-Rene Theater, the Amaturo Theater and the center's own listing
+      feed: { kind: 'rss', url: 'https://www.browardcenter.org/events/rss', secondary: true, venues: /broward center/i, drop: /parking|backstage tours?|building tours?/i }, // the center's own listing (carbonhouse) carries the Parker, the Miniaci and Aventura too
       alias: /broward center|au-rene theater|amaturo theater/i,
     },
     'Revolution Live': {
@@ -267,6 +289,9 @@
       url: 'https://www.jointherevolution.net/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.jointherevolution.net&sz=128',
       tm: { id: 'KovZpZAEkvlA,KovZpZAEke6A', match: 'revolution live', fallbackUrl: 'https://www.jointherevolution.net/events', exclude: /parking|vip (add-on|upgrade|package)/i }, // the club and its outdoor stage
+      // the club's home page is its listing (/events/ is an empty page); the clock it prints is the doors time
+      feed: { kind: 'cards', url: 'https://www.jointherevolution.net/', secondary: true,
+        item: /<div class="event-list__list-item/, title: /<a href="([^"]+)" class="event-list__title-link">[\s\S]*?<h2 class="event-list__title">([^<]+)</, when: /start-month">([^<]*)<[\s\S]*?start-date">([^<]*)<[\s\S]*?start-date">([^<]*)<(?:[\s\S]*?event-list__time">([^<]*)<)?/ },
       alias: /revolution live/i,
     },
     'Pompano Beach Amphitheater': {
@@ -279,6 +304,10 @@
       url: 'https://www.pompanobeacharts.org/pompano-beach-amphitheater',
       icon: 'https://www.google.com/s2/favicons?domain=www.pompanobeacharts.org&sz=128',
       tm: { id: 'KovZpZA7AlnA', match: 'pompano', fallbackUrl: 'https://www.pompanobeacharts.org/pompano-beach-amphitheater', exclude: /parking|vip (add-on|upgrade|package)/i },
+      // the city's arts calendar, every venue on one page; a card prints the date without a year and the clock inside
+      // its blurb ("Doors open at 6:30PM", or "Show: 8:00 PM" — the show's when it says so)
+      feed: { kind: 'cards', url: 'https://www.pompanobeacharts.org/events', secondary: true, drop: /about the amp/i,
+        item: /<div class="col-xl-2 col-lg-3 col-sm-6 /, title: /href="([^"]+)" class="event-box[^"]*">[\s\S]*?event-title">([^<]*)</, when: /(?=[\s\S]*?event-date">\s*([^<]*?)\s*<)[\s\S]*?event-text">\s*(?:[^<]*?Show:?\s*(\d{1,2}(?::\d{2})?\s*[AP]\.?M)|[^<]*?(\d{1,2}(?::\d{2})?\s*[AP]\.?M))?/, place: /event-location">\s*([^<]*?)\s*</, venues: /amphitheater|the amp/i },
       alias: /pompano beach amphitheat(er|re)/i,
     },
   };
