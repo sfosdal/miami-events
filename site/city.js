@@ -136,7 +136,7 @@
       url: 'https://www.kaseyacenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.kaseyacenter.com&sz=128',
       tm: { id: 'KovZpZAJtFaA', match: 'kaseya', fallbackUrl: 'https://www.kaseyacenter.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
-      feed: { kind: 'rss', url: 'https://www.kaseyacenter.com/events/rss', secondary: true, drop: /all-access tour|parking|suite/i }, // the arena's own listing (carbonhouse)
+      feed: { kind: 'rss', url: 'https://www.kaseyacenter.com/events/rss', chrome: true, secondary: true, drop: /all-access tour|parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /kaseya center|ftx arena|americanairlines arena/i,
     },
     'loanDepot park': {
@@ -219,7 +219,7 @@
       url: 'https://www.watscocenter.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.watscocenter.com&sz=128',
       tm: { id: 'KovZpZAEkAdA', match: 'watsco', fallbackUrl: 'https://www.watscocenter.com/events', exclude: /parking|suite/i },
-      feed: { kind: 'rss', url: 'https://www.watscocenter.com/events/rss', secondary: true, drop: /parking|suite/i }, // the arena's own listing (carbonhouse)
+      feed: { kind: 'rss', url: 'https://www.watscocenter.com/events/rss', chrome: true, secondary: true, drop: /parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /watsco center|bankunited center/i,
     },
     'Pitbull Stadium': {
@@ -246,7 +246,7 @@
       url: 'https://www.amerantbankarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.amerantbankarena.com&sz=128',
       tm: { id: 'KovZpZAEeavA', match: 'amerant', fallbackUrl: 'https://www.amerantbankarena.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
-      feed: { kind: 'rss', url: 'https://www.amerantbankarena.com/events/rss', secondary: true, drop: /parking|suite|hotel package|arena tours?|\b[a-z]{3} vs fla\b/i }, // the arena's own listing (carbonhouse); the Panthers' games ("DET vs FLA", a theme night in front) are the NHL schedule's rows
+      feed: { kind: 'rss', url: 'https://www.amerantbankarena.com/events/rss', chrome: true, secondary: true, drop: /parking|suite|hotel package|arena tours?|\b[a-z]{3} vs fla\b/i }, // the arena's own listing (carbonhouse); the Panthers' games ("DET vs FLA", a theme night in front) are the NHL schedule's rows
       alias: /amerant bank arena|fla live arena|bb&t center/i,
     },
     'Hard Rock Live': {
@@ -276,7 +276,7 @@
       url: 'https://www.browardcenter.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.browardcenter.org&sz=128',
       tm: { id: 'KovZpZA7AeJA,KovZpZAEvnlA,KovZpZAEeadA', match: 'broward center', fallbackUrl: 'https://www.browardcenter.org/events', exclude: /parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i }, // the Au-Rene Theater, the Amaturo Theater and the center's own listing
-      feed: { kind: 'rss', url: 'https://www.browardcenter.org/events/rss', secondary: true, venues: /broward center/i, drop: /parking|backstage tours?|building tours?/i }, // the center's own listing (carbonhouse) carries the Parker, the Miniaci and Aventura too
+      feed: { kind: 'rss', url: 'https://www.browardcenter.org/events/rss', chrome: true, secondary: true, venues: /broward center/i, drop: /parking|backstage tours?|building tours?/i }, // the center's own listing (carbonhouse) carries the Parker, the Miniaci and Aventura too
       alias: /broward center|au-rene theater|amaturo theater/i,
     },
     'Revolution Live': {
