@@ -709,6 +709,30 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/bad-gyal-mas-cara-world-tour-miami-beach-florida-10-28-2026/event/0D00649B9BADC783",
    "type": "concert"
+  },
+  {
+   "venue": "FPL Solar Amphitheater",
+   "title": "Man Alive",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://www.bayfrontparkmiami.com/events/man-alive",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Prof",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://www.jointherevolution.net/concerts/prof/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Ed Sheeran: LOOP Tour",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ed-sheeran-loop-tour-hollywood-florida-10-29-2026/event/0D006331A7D91AFF",
+   "type": "concert"
   }
  ]
 }
