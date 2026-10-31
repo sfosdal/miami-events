@@ -733,6 +733,44 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/ed-sheeran-loop-tour-hollywood-florida-10-29-2026/event/0D006331A7D91AFF",
    "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Honey Revenge x Dead Poet Society",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://www.jointherevolution.net/concerts/honey-revenge-x-dead-poet-society/",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Winnipeg Jets",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "TVAS",
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Indiana Pacers (Emirates NBA Cup Game)",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-indiana-pacers-emirates-miami-florida-10-30-2026/event/0D00650C8C12375A",
+   "type": "sports"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Ed Sheeran: LOOP Tour",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ed-sheeran-loop-tour-hollywood-florida-10-30-2026/event/0D006331F45E4089",
+   "type": "concert"
   }
  ]
 }
