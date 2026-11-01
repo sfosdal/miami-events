@@ -771,6 +771,46 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/ed-sheeran-loop-tour-hollywood-florida-10-30-2026/event/0D006331F45E4089",
    "type": "concert"
+  },
+  {
+   "venue": "FPL Solar Amphitheater",
+   "title": "Red Bull Flugtag Miami",
+   "date": "2026-10-31",
+   "time": "10:00",
+   "url": "https://www.bayfrontparkmiami.com/events/red-bull-flugtag-miami",
+   "type": "concert"
+  },
+  {
+   "venue": "FPL Solar Amphitheater",
+   "title": "Halloween: Boo on the bay",
+   "date": "2026-10-31",
+   "time": "18:30",
+   "url": "https://www.bayfrontparkmiami.com/events/halloween-boo-on-the-bay",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Sonic Live in Concert",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/sonic-live-in-concert-ft-lauderdale-florida-10-31-2026/event/0D0064B3B735933F",
+   "type": "arts"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Hablando Huevadas - US Tour 2026",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/hablando-huevadas-us-tour-2026-miami-florida-10-31-2026/event/0D0064F1B82B8219",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Grupo Niche - Niche DIsco Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/grupo-niche-niche-disco-tour-hollywood-florida-10-31-2026/event/0D0064B4BA2AC5D3",
+   "type": "concert"
   }
  ]
 }
