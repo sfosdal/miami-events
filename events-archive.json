@@ -832,6 +832,43 @@
    "time": "20:00:00",
    "url": "https://www.theamppompano.org/",
    "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Hometown Remix Launch",
+   "date": "2026-11-02",
+   "time": "09:54",
+   "url": "https://www.amerantbankarena.com/events/detail/hometown-remix-launch",
+   "type": "sports"
+  },
+  {
+   "venue": "Pitbull Stadium",
+   "title": "FIU Women's Soccer vs Kennesaw State",
+   "date": "2026-11-02",
+   "time": "11:00",
+   "url": "https://fiusports.com/calendar.aspx?game_id=15034&sport_id=14",
+   "type": "sports"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. FAU Owls",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-fau-coral-gables-florida-11-02-2026/event/0D0065376D3D29FF",
+   "type": "sports"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Detroit Red Wings",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SCRIPPS"
+    ]
+   }
   }
  ]
 }
