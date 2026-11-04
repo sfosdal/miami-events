@@ -20,6 +20,13 @@
   --v-hardrock: #9e2e2e; --v-kaseya: #2e9e4f; --v-loandepot: #6f2e9e; --v-arsht: #9e902e; --v-bayfront: #2e8b9e; --v-knight: #9e2e6b; /* the rooms, one hue each (city.js cssVar), spread round the wheel */
   --v-fillmore: #4a9e2e; --v-watsco: #332e9e; --v-pitbull: #9e532e; --v-amerant: #2e9e74; --v-hardrocklive: #952e9e; --v-broward: #879e2e;
   --v-nustadium: #2e669e; --v-revolution: #9e2e45; --v-pompano: #2e9e37;
+  --v-donotsitonthef: #2e9e93; --v-kemistry: #825d26; --v-clubspace: #5d36ba; --v-jolenesoundroo: #9e2e88; --v-eaglewiltonman: #578226; --v-southbeachbrew: #3655ba; /* the DICE venues (2026-11-03) */
+  --v-upside: #9e2e57; --v-sable: #823526; --v-aire: #b5ba36; --v-factorytown: #2e799e; --v-m2: #268251; --v-libraryspeakea: #9736ba;
+  --v-queenmiamibeac: #399e2e; --v-littleriverstu: #825126; --v-rathskeller: #ba9736; --v-zeyzey: #5b9e2e; --v-watsonislandpa: #26826d; --v-hialeahparkcas: #36b5ba;
+  --v-edge: #2e399e; --v-churchillspub: #4e2682; --v-uppereastsideh: #ba36b1; --v-bohohouse: #412e9e; --v-73westflaglers: #822664; --v-ramrodbar: #8eba36;
+  --v-tomorrowland: #2e579e; --v-apothekemiamib: #82262f; --v-trip: #36ba50; --v-sylvester: #2e9e2e; --v-richardsonpark: #768226; --v-timbr: #36ba66;
+  --v-grayboxtheater: #2e6d9e; --v-paraisoestereo: #732682; --v-eddiesplace: #ba3673; --v-lostcitybrewin: #9e352e; --v-fooqs: #823b26; --v-killyouridol: #ba6b36;
+  --v-novotelmiamibr: #9e6a2e; --v-casamonarca: #826426;
   --venue-text: 72%;     /* how much of the venue hue the card's venue label keeps (light mode) */
   --tint: 26%;           /* the venue wash behind a series card (light mode; 13% in the dark palette) */
   --row-a: #f3f6f8; --row-b: #d6dde3; /* the list's rows alternate light and dark grey; only a series keeps its venue's hue (Steve, 2026-10-20) */
@@ -60,6 +67,13 @@
     --v-hardrock: #ea8686; --v-kaseya: #86eaa3; --v-loandepot: #c086ea; --v-arsht: #eadd86; --v-bayfront: #86d9ea; --v-knight: #ea86bc; /* the rooms, one hue each (city.js cssVar), spread round the wheel */
     --v-fillmore: #9fea86; --v-watsco: #8a86ea; --v-pitbull: #eaa786; --v-amerant: #86eac4; --v-hardrocklive: #e186ea; --v-broward: #d5ea86;
     --v-nustadium: #86b7ea; --v-revolution: #ea869a; --v-pompano: #86ea8e;
+    --v-donotsitonthef: #86eae0; --v-kemistry: #f0d3a8; --v-clubspace: #8963e3; --v-jolenesoundroo: #ea86d6; --v-eaglewiltonman: #cef0a8; --v-southbeachbrew: #6381e3; /* the DICE venues (2026-11-03) */
+    --v-upside: #ea86aa; --v-sable: #f0b4a8; --v-aire: #dfe363; --v-factorytown: #86c8ea; --v-m2: #a8f0ca; --v-libraryspeakea: #c163e3;
+    --v-queenmiamibeac: #90ea86; --v-littleriverstu: #f0caa8; --v-rathskeller: #e3c163; --v-zeyzey: #aeea86; --v-watsonislandpa: #a8f0df; --v-hialeahparkcas: #63dfe3;
+    --v-edge: #8690ea; --v-churchillspub: #c7a8f0; --v-uppereastsideh: #e363db; --v-bohohouse: #9686ea; --v-73westflaglers: #f0a8d8; --v-ramrodbar: #b9e363;
+    --v-tomorrowland: #86aaea; --v-apothekemiamib: #f0a8af; --v-trip: #63e37d; --v-sylvester: #86ea86; --v-richardsonpark: #e6f0a8; --v-timbr: #63e392;
+    --v-grayboxtheater: #86beea; --v-paraisoestereo: #e4a8f0; --v-eddiesplace: #e3639f; --v-lostcitybrewin: #ea8c86; --v-fooqs: #f0b9a8; --v-killyouridol: #e39663;
+    --v-novotelmiamibr: #eabb86; --v-casamonarca: #f0d8a8;
     --venue-text: 100%; --tint: 13%;
     --row-a: #1e252c; --row-b: #2c343c;
     --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
@@ -78,6 +92,13 @@
   --v-hardrock: #ea8686; --v-kaseya: #86eaa3; --v-loandepot: #c086ea; --v-arsht: #eadd86; --v-bayfront: #86d9ea; --v-knight: #ea86bc; /* the rooms, one hue each (city.js cssVar), spread round the wheel */
   --v-fillmore: #9fea86; --v-watsco: #8a86ea; --v-pitbull: #eaa786; --v-amerant: #86eac4; --v-hardrocklive: #e186ea; --v-broward: #d5ea86;
   --v-nustadium: #86b7ea; --v-revolution: #ea869a; --v-pompano: #86ea8e;
+  --v-donotsitonthef: #86eae0; --v-kemistry: #f0d3a8; --v-clubspace: #8963e3; --v-jolenesoundroo: #ea86d6; --v-eaglewiltonman: #cef0a8; --v-southbeachbrew: #6381e3; /* the DICE venues (2026-11-03) */
+  --v-upside: #ea86aa; --v-sable: #f0b4a8; --v-aire: #dfe363; --v-factorytown: #86c8ea; --v-m2: #a8f0ca; --v-libraryspeakea: #c163e3;
+  --v-queenmiamibeac: #90ea86; --v-littleriverstu: #f0caa8; --v-rathskeller: #e3c163; --v-zeyzey: #aeea86; --v-watsonislandpa: #a8f0df; --v-hialeahparkcas: #63dfe3;
+  --v-edge: #8690ea; --v-churchillspub: #c7a8f0; --v-uppereastsideh: #e363db; --v-bohohouse: #9686ea; --v-73westflaglers: #f0a8d8; --v-ramrodbar: #b9e363;
+  --v-tomorrowland: #86aaea; --v-apothekemiamib: #f0a8af; --v-trip: #63e37d; --v-sylvester: #86ea86; --v-richardsonpark: #e6f0a8; --v-timbr: #63e392;
+  --v-grayboxtheater: #86beea; --v-paraisoestereo: #e4a8f0; --v-eddiesplace: #e3639f; --v-lostcitybrewin: #ea8c86; --v-fooqs: #f0b9a8; --v-killyouridol: #e39663;
+  --v-novotelmiamibr: #eabb86; --v-casamonarca: #f0d8a8;
   --venue-text: 100%; --tint: 13%;
   --row-a: #1e252c; --row-b: #2c343c;
   --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
