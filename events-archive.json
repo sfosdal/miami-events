@@ -869,6 +869,62 @@
      "SCRIPPS"
     ]
    }
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Hometown Remix Launch",
+   "date": "2026-11-04",
+   "time": "12:00",
+   "url": "https://www.amerantbankarena.com/events/detail/hometown-remix-launch",
+   "type": "sports"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "GWAR - Gor Gor Must Die",
+   "date": "2026-11-04",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/gwar-gor-gor-must-die-ft-lauderdale-florida-11-04-2026/event/0D006497B290A14E",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Chicago Blackhawks",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "TNT",
+     "truTV",
+     "HBO MAX"
+    ]
+   }
+  },
+  {
+   "venue": "The Sylvester",
+   "title": "Melo: Timeless Music Classics",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae8ae01d94d190001ef6fcb",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Jessy & Friends",
+   "date": "2026-11-04",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad892c105fa5e0001997513",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Place",
+   "title": "MD Live Comedy Debate Show",
+   "date": "2026-11-04",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad94f8209ee9800010db4d9",
+   "end": "23:30",
+   "type": "concert"
   }
  ]
 }
