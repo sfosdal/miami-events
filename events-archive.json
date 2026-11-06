@@ -933,6 +933,87 @@
    "url": "https://dice.fm/event/6ad94f8209ee9800010db4d9",
    "end": "23:30",
    "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Tony Robbins",
+   "date": "2026-11-05",
+   "time": "10:15",
+   "url": "https://www.kaseyacenter.com/events/detail/tony-robbins",
+   "type": "sports"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. Jacksonville Dolphins",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-jacksonville-coral-gables-florida-11-05-2026/event/0D0065376D3F2A02",
+   "type": "sports"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "RUSH: Fifty Something",
+   "date": "2026-11-05",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/rush-fifty-something-hollywood-florida-11-05-2026/event/0D006351A26C4DBC",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Con Man - A True Crime Magic Show",
+   "date": "2026-11-05",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/con-man-a-true-crime-magic-ft-lauderdale-florida-11-05-2026/event/0D00651BCEAD9D31",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Undertale: Determination Symphony",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/undertale-determination-symphony-ft-lauderdale-florida-11-05-2026/event/0D0064ACC296B760",
+   "type": "concert"
+  },
+  {
+   "venue": "Aire",
+   "title": "Aire: Lerso, Marie Posa, Neovibe, Magno",
+   "date": "2026-11-05",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ae83e767923660001b30a39",
+   "type": "concert"
+  },
+  {
+   "venue": "The Library Speakeasy",
+   "title": "Laughs at the Library Comedy Show",
+   "date": "2026-11-05",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aa9bbe536ffde00019c6a1d",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Secret Thursdays",
+   "date": "2026-11-05",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adb930179b93500014c3df7",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Collegiate Glow Party",
+   "date": "2026-11-05",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ae9c96f13b90c0001835bb8",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "King's Paradox: Marian (BR), Mvcias, Dalva, & Seguez",
+   "date": "2026-11-05",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac6aa74f13291000127aaa6",
+   "type": "concert"
   }
  ]
 }
