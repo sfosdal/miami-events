@@ -286,9 +286,9 @@
       type: 'concert',
       cssVar: '--v-revolution',
       color: '#ea869a',
-      url: 'https://www.jointherevolution.net/events',
+      url: 'https://www.jointherevolution.net/concerts/',
       icon: 'https://www.google.com/s2/favicons?domain=www.jointherevolution.net&sz=128',
-      tm: { id: 'KovZpZAEkvlA,KovZpZAEke6A', match: 'revolution live', fallbackUrl: 'https://www.jointherevolution.net/events', exclude: /parking|vip (add-on|upgrade|package)/i }, // the club and its outdoor stage
+      tm: { id: 'KovZpZAEkvlA,KovZpZAEke6A', match: 'revolution live', fallbackUrl: 'https://www.jointherevolution.net/concerts/', exclude: /parking|vip (add-on|upgrade|package)/i }, // the club and its outdoor stage
       // the club's home page is its listing (/events/ is an empty page); the clock it prints is the doors time
       feed: { kind: 'cards', url: 'https://www.jointherevolution.net/', secondary: true,
         item: /<div class="event-list__list-item/, title: /<a href="([^"]+)" class="event-list__title-link">[\s\S]*?<h2 class="event-list__title">([^<]+)</, when: /start-month">([^<]*)<[\s\S]*?start-date">([^<]*)<[\s\S]*?start-date">([^<]*)<(?:[\s\S]*?event-list__time">([^<]*)<)?/ },
