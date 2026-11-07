@@ -1014,6 +1014,182 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6ac6aa74f13291000127aaa6",
    "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Tony Robbins",
+   "date": "2026-11-06",
+   "time": "09:30",
+   "url": "https://www.kaseyacenter.com/events/detail/tony-robbins",
+   "type": "sports"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "The Comedy Bar: Yaqiao Yang",
+   "date": "2026-11-06",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6ae2a883b80c9c0001007882",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Con Man - A True Crime Magic Show",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/con-man-a-true-crime-magic-ft-lauderdale-florida-11-06-2026/event/0D00651BCEB19D3E",
+   "type": "arts"
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9f3d34a894f20001163bd0",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Adrienne Arsht Center",
+   "title": "Jobim & The Music of Brazil",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "http://www.arshtcenter.org"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Jair Oliveira: Balloon Bossa",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jair-oliveira-balloon-bossa-ft-lauderdale-florida-11-06-2026/event/0D0064E9A173567F",
+   "type": "concert"
+  },
+  {
+   "venue": "Upside",
+   "title": "Ray Kash",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ae229bb00259b0001f9d87d",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Echoes: Rex The Dog (Live) + MXGPU (Hybrid)",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ad9153f3691bc0001ecdaf5",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Club 90’s Presents MJ Night",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://www.jointherevolution.net/concerts/club-90s-presents-mj-night-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Men's Basketball vs. Wagner Seahwaks",
+   "date": "2026-11-06",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-mens-basketball-vs-wagner-coral-gables-florida-11-06-2026/event/0D0065478FB149D4",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACC Network"
+    ]
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Club 90's Presents MJ Night",
+   "date": "2026-11-06",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/club-90s-presents-mj-night-ft-lauderdale-florida-11-06-2026/event/0D00653DEFB7FCF6",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Nico Morano",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aa566da6b039600012eb306",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "3BallMTY",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a77d938f193780001937329",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "BASHKKA",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6acfab7319150500012f9256",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "FILTHY ft. Seth Breezy",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad31c3d3a7434000170cf0b",
+   "type": "concert"
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac32275a7ef550001ef926a",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Bugs & Beats: Sophie du Futur, Chamacos, Jad",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ae8f7a0d94d19000133c7c7",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Dennis Cruz + Moodymann b2b Carl Craig",
+   "date": "2026-11-06",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac66d60ede61600010d1cba",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Veronica Vasicka [Minimal Wave]",
+   "date": "2026-11-06",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe7ba3c57ae3000111bebb",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Paige Tomlinson + Lammer + Stüm",
+   "date": "2026-11-06",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6aac2b58ba4e800001745f0c",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "Erick Rosales Farewell Set",
+   "date": "2026-11-06",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6ae1e69094765e00015d7521",
+   "type": "concert"
   }
  ]
 }
