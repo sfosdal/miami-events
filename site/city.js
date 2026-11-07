@@ -117,7 +117,7 @@
       cssVar: '--v-hardrock',
       color: '#ea8686',
       url: 'https://www.hardrockstadium.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hardrockstadium.com&sz=128',
+      icon: 'marks/venues/hardrockstadium.com.png',
       tm: { id: 'KovZpZAEkvtA', match: 'hard rock stadium', fallbackUrl: 'https://www.hardrockstadium.com/events/', exclude: /luxury & suites|suite|parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?|hotel package|tailgate/i },
       // the stadium's own page: the games are Ticketmaster's rows (and the Teams schedules), so a card's category
       // class stands in for its venue name (`item` is a lookahead so the split keeps it) and `venues` keeps the rest — the Grand Prix,
@@ -134,7 +134,7 @@
       cssVar: '--v-kaseya',
       color: '#86eaa3',
       url: 'https://www.kaseyacenter.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.kaseyacenter.com&sz=128',
+      icon: 'marks/venues/kaseyacenter.com.png',
       tm: { id: 'KovZpZAJtFaA', match: 'kaseya', fallbackUrl: 'https://www.kaseyacenter.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
       feed: { kind: 'rss', url: 'https://www.kaseyacenter.com/events/rss', chrome: true, secondary: true, drop: /all-access tour|parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /kaseya center|ftx arena|americanairlines arena/i,
@@ -146,7 +146,7 @@
       cssVar: '--v-loandepot',
       color: '#c086ea',
       url: 'https://www.mlb.com/marlins/ballpark/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mlb.com&sz=128',
+      icon: 'marks/venues/mlb.com.png',
       tm: { id: 'KovZpZAId1JA', match: 'loandepot', fallbackUrl: 'https://www.mlb.com/marlins/ballpark/events', exclude: /parking|suite|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?|hotel package/i },
       alias: /loandepot park|marlins park/i,
     },
@@ -157,7 +157,7 @@
       cssVar: '--v-nustadium',
       color: '#86b7ea',
       url: 'https://www.intermiamicf.com/nu-stadium/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.intermiamicf.com&sz=128',
+      icon: 'marks/venues/intermiamicf.com.png',
       tm: { id: 'KovZ917AYfq', match: 'nu stadium', fallbackUrl: 'https://www.intermiamicf.com/nu-stadium/', exclude: /parking|suite|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?|hotel package/i },
       // the stadium's own listing, server-rendered from its Ticketmaster block: "WED, OCT 28 | 7:30 PM EDT" and the name
       feed: { kind: 'cards', url: 'https://nustadium.com/events/', secondary: true,
@@ -171,7 +171,7 @@
       cssVar: '--v-arsht',
       color: '#eadd86',
       url: 'https://www.arshtcenter.org/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.arshtcenter.org&sz=128',
+      icon: 'marks/venues/arshtcenter.org.png',
       tm: { id: 'Z7r9jZa7H8,KovZpa4RIe,KovZpZAaIvvA', match: 'arsht', fallbackUrl: 'https://www.arshtcenter.org/calendar/', exclude: /parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i }, // the Knight Concert Hall, the Ziff Ballet Opera House and the center's own listing
       alias: /arsht center|knight concert hall|ziff ballet opera house/i,
     },
@@ -182,7 +182,7 @@
       cssVar: '--v-bayfront',
       color: '#86d9ea',
       url: 'https://www.bayfrontparkmiami.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.bayfrontparkmiami.com&sz=128',
+      icon: 'marks/venues/bayfrontparkmiami.com.jpg',
       tm: { id: 'KovZpZAEAFAA', match: 'bayfront', fallbackUrl: 'https://www.bayfrontparkmiami.com/events/', exclude: /parking|vip (add-on|upgrade|package)/i },
       feed: { kind: 'squarespace', url: 'https://www.bayfrontparkmiami.com/events/', secondary: true, venues: /fpl|bayfront park/i }, // the park trust's Squarespace calendar; its Maurice A. Ferré Park rows are another park's
       alias: /fpl solar amphitheater|bayfront park/i,
@@ -194,7 +194,7 @@
       cssVar: '--v-knight',
       color: '#ea86bc',
       url: 'https://jlkc.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=jlkc.com&sz=128',
+      icon: 'marks/venues/jlkc.com.png',
       tm: { id: 'KovZpZAJvnAA', match: 'knight center', fallbackUrl: 'https://jlkc.com/events/', exclude: /parking|vip (add-on|upgrade|package)/i },
       feed: { kind: 'tribe', url: 'https://jlkc.com/wp-json/tribe/events/v1/events', secondary: true }, // the center's WordPress calendar
       alias: /knight center/i,
@@ -206,7 +206,7 @@
       cssVar: '--v-fillmore',
       color: '#9fea86',
       url: 'https://www.fillmoremb.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.fillmoremb.com&sz=128',
+      icon: 'marks/venues/fillmoremb.com.png',
       tm: { id: 'KovZpZAEkedA', match: 'fillmore', fallbackUrl: 'https://www.fillmoremb.com/', exclude: /parking|vip (add-on|upgrade|package)/i },
       alias: /fillmore miami beach|jackie gleason theater/i,
     },
@@ -217,7 +217,7 @@
       cssVar: '--v-watsco',
       color: '#8a86ea',
       url: 'https://www.watscocenter.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.watscocenter.com&sz=128',
+      icon: 'marks/venues/watscocenter.com.png',
       tm: { id: 'KovZpZAEkAdA', match: 'watsco', fallbackUrl: 'https://www.watscocenter.com/events', exclude: /parking|suite/i },
       feed: { kind: 'rss', url: 'https://www.watscocenter.com/events/rss', chrome: true, secondary: true, drop: /parking|suite/i }, // the arena's own listing (carbonhouse)
       alias: /watsco center|bankunited center/i,
@@ -229,7 +229,7 @@
       cssVar: '--v-pitbull',
       color: '#eaa786',
       url: 'https://fiusports.com/sports/football/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=fiusports.com&sz=128',
+      icon: 'marks/venues/fiusports.com.png',
       tm: { id: 'KovZpZAJtF1A', match: 'pitbull', fallbackUrl: 'https://fiusports.com/sports/football/schedule', exclude: /parking|suite|tailgate/i },
       // FIU's Sidearm calendar, the stadium's dates only; the result tag and the promo suffix come off the title ("[W] FIU Football vs X - Homecoming")
       feed: { kind: 'icsfile', url: 'https://fiusports.com/calendar.ics', secondary: true, venues: /pitbull stadium/i, rename: [[/^\[[A-Z]\]\s*/, ''], [/\s+(?:-|–|--)\s+.*$/, '']] },
@@ -244,7 +244,7 @@
       cssVar: '--v-amerant',
       color: '#86eac4',
       url: 'https://www.amerantbankarena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.amerantbankarena.com&sz=128',
+      icon: 'marks/venues/amerantbankarena.com.png',
       tm: { id: 'KovZpZAEeavA', match: 'amerant', fallbackUrl: 'https://www.amerantbankarena.com/events', exclude: /parking|suite|hotel package|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i },
       feed: { kind: 'rss', url: 'https://www.amerantbankarena.com/events/rss', chrome: true, secondary: true, drop: /parking|suite|hotel package|arena tours?|\b[a-z]{3} vs fla\b/i }, // the arena's own listing (carbonhouse); the Panthers' games ("DET vs FLA", a theme night in front) are the NHL schedule's rows
       alias: /amerant bank arena|fla live arena|bb&t center/i,
@@ -257,7 +257,7 @@
       cssVar: '--v-hardrocklive',
       color: '#e186ea',
       url: 'https://casino.hardrock.com/hollywood/entertainment/hard-rock-live',
-      icon: 'https://www.google.com/s2/favicons?domain=casino.hardrock.com&sz=128',
+      icon: 'marks/venues/casino.hardrock.com.png',
       tm: { id: 'KovZpZA6AEaA', match: 'hard rock live', fallbackUrl: 'https://casino.hardrock.com/hollywood/entertainment/hard-rock-live', exclude: /parking|hotel package|vip (add-on|upgrade|package)/i },
       // the casino's Sitecore search answers the whole upcoming list as JSON-wrapped cards (the page itself renders a
       // carousel of the first few); `venues` keeps Hard Rock Live's out of the pool parties; the card prints no year
@@ -274,7 +274,7 @@
       cssVar: '--v-broward',
       color: '#d5ea86',
       url: 'https://www.browardcenter.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.browardcenter.org&sz=128',
+      icon: 'marks/venues/browardcenter.org.png',
       tm: { id: 'KovZpZA7AeJA,KovZpZAEvnlA,KovZpZAEeadA', match: 'broward center', fallbackUrl: 'https://www.browardcenter.org/events', exclude: /parking|^(stadium|arena|ballpark|venue) tours?\b|behind.the.scenes tours?/i }, // the Au-Rene Theater, the Amaturo Theater and the center's own listing
       feed: { kind: 'rss', url: 'https://www.browardcenter.org/events/rss', chrome: true, secondary: true, venues: /broward center/i, drop: /parking|backstage tours?|building tours?/i }, // the center's own listing (carbonhouse) carries the Parker, the Miniaci and Aventura too
       alias: /broward center|au-rene theater|amaturo theater/i,
@@ -287,7 +287,6 @@
       cssVar: '--v-revolution',
       color: '#ea869a',
       url: 'https://www.jointherevolution.net/concerts/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.jointherevolution.net&sz=128',
       tm: { id: 'KovZpZAEkvlA,KovZpZAEke6A', match: 'revolution live', fallbackUrl: 'https://www.jointherevolution.net/concerts/', exclude: /parking|vip (add-on|upgrade|package)/i }, // the club and its outdoor stage
       // the club's home page is its listing (/events/ is an empty page); the clock it prints is the doors time
       feed: { kind: 'cards', url: 'https://www.jointherevolution.net/', secondary: true,
@@ -302,7 +301,7 @@
       cssVar: '--v-pompano',
       color: '#86ea8e',
       url: 'https://www.pompanobeacharts.org/pompano-beach-amphitheater',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pompanobeacharts.org&sz=128',
+      icon: 'marks/venues/pompanobeacharts.org.png',
       tm: { id: 'KovZpZA7AlnA', match: 'pompano', fallbackUrl: 'https://www.pompanobeacharts.org/pompano-beach-amphitheater', exclude: /parking|vip (add-on|upgrade|package)/i },
       // the city's arts calendar, every venue on one page; a card prints the date without a year and the clock inside
       // its blurb ("Doors open at 6:30PM", or "Show: 8:00 PM" — the show's when it says so)
@@ -317,7 +316,7 @@
       cssVar: '--v-donotsitonthef',
       color: '#86eae0',
       url: 'https://donotsitonthefurniture.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=donotsitonthefurniture.com&sz=128',
+      icon: 'marks/venues/donotsitonthefurniture.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/9271' },
     },
     'Kemistry': { // on DICE (307 Southwest 2nd Street, Fort Lauderdale, Florida 33312); its DICE venue page is the listing (2026-11-03)
@@ -327,7 +326,7 @@
       cssVar: '--v-kemistry',
       color: '#f0d3a8',
       url: 'https://kemistrynightclub.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=kemistrynightclub.com&sz=128',
+      icon: 'marks/venues/kemistrynightclub.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/11355' },
     },
     'Club Space': { // on DICE (34 NE 11th St, Miami, FL 33132); its DICE venue page is the listing (2026-11-03); DICE's other rooms in the building (Floyd Miami, The Ground Miami) are read below as city feeds pinned here
@@ -336,7 +335,7 @@
       cssVar: '--v-clubspace',
       color: '#8963e3',
       url: 'https://www.clubspace.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.clubspace.com&sz=128',
+      icon: 'marks/venues/clubspace.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/7635' },
     },
     'Jolene Sound Room': { // on DICE (200 East Flagler Street, Miami, Florida 33131); its DICE venue page is the listing (2026-11-03)
@@ -346,7 +345,7 @@
       cssVar: '--v-jolenesoundroo',
       color: '#ea86d6',
       url: 'https://www.jolenesoundroom.com/miami/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.jolenesoundroom.com&sz=128',
+      icon: 'marks/venues/jolenesoundroom.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/10766' },
     },
     'Eagle Wilton Manors': { // on DICE (2209 Wilton Drive, Wilton Manors, Florida 33305); its DICE venue page is the listing (2026-11-03)
@@ -356,7 +355,7 @@
       cssVar: '--v-eaglewiltonman',
       color: '#cef0a8',
       url: 'https://eaglebarwm.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=eaglebarwm.com&sz=128',
+      icon: 'marks/venues/eaglebarwm.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16355' },
     },
     'South Beach Brewing Company': { // on DICE (210 11th Street, Miami Beach, Florida 33139); its DICE venue page is the listing (2026-11-03)
@@ -365,7 +364,7 @@
       cssVar: '--v-southbeachbrew',
       color: '#6381e3',
       url: 'https://dice.fm/venue/18762',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18762' },
     },
     'Upside': { // on DICE (59 Northwest 28th Street, Miami, Florida 33127); its DICE venue page is the listing (2026-11-03)
@@ -374,7 +373,7 @@
       cssVar: '--v-upside',
       color: '#ea86aa',
       url: 'https://dice.fm/venue/19438',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19438' },
     },
     'Sable': { // on DICE (2219 Northwest 2nd Avenue, Miami, Florida 33127); its DICE venue page is the listing (2026-11-03)
@@ -383,7 +382,7 @@
       cssVar: '--v-sable',
       color: '#f0b4a8',
       url: 'https://dice.fm/venue/15527',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/15527' },
     },
     'Aire': { // on DICE (111 Northeast 20th Street, Miami, Florida 33137); its DICE venue page is the listing (2026-11-03)
@@ -392,7 +391,7 @@
       cssVar: '--v-aire',
       color: '#dfe363',
       url: 'https://dice.fm/venue/14953',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/14953' },
     },
     'Factory Town': { // on DICE (4800 NW 37th Ave, Miami, FL 33142); its DICE venue page is the listing (2026-11-03)
@@ -401,7 +400,7 @@
       cssVar: '--v-factorytown',
       color: '#86c8ea',
       url: 'http://www.factorytown.com',
-      icon: 'https://www.google.com/s2/favicons?domain=www.factorytown.com&sz=128',
+      icon: 'marks/venues/factorytown.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/6456' },
     },
     'M2': { // on DICE (1235 Washington Ave, Miami Beach, Florida 33139); its DICE venue page is the listing (2026-11-03)
@@ -410,7 +409,7 @@
       cssVar: '--v-m2',
       color: '#a8f0ca',
       url: 'https://www.m2miami.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.m2miami.com&sz=128',
+      icon: 'marks/venues/m2miami.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/9340' },
     },
     'The Library Speakeasy': { // on DICE (10766 Southwest 24th Street, Miami, Florida 33165); its DICE venue page is the listing (2026-11-03)
@@ -419,7 +418,7 @@
       cssVar: '--v-libraryspeakea',
       color: '#c163e3',
       url: 'https://dice.fm/venue/19811',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19811' },
     },
     'Queen Miami Beach': { // on DICE (550 Washington Avenue, Miami Beach, Florida 33139); its DICE venue page is the listing (2026-11-03)
@@ -428,7 +427,7 @@
       cssVar: '--v-queenmiamibeac',
       color: '#90ea86',
       url: 'https://dice.fm/venue/19915',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19915' },
     },
     'Little River Studios': { // on DICE (300 Northeast 71st Street, Miami, Florida 33138); its DICE venue page is the listing (2026-11-03)
@@ -437,7 +436,7 @@
       cssVar: '--v-littleriverstu',
       color: '#f0caa8',
       url: 'https://littleriverstudios.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=littleriverstudios.com&sz=128',
+      icon: 'marks/venues/littleriverstudios.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16239' },
     },
     'Rathskeller': { // on DICE (1330 Miller Drive, Coral Gables, Florida 33124); its DICE venue page is the listing (2026-11-03)
@@ -446,7 +445,7 @@
       cssVar: '--v-rathskeller',
       color: '#e3c163',
       url: 'https://dice.fm/venue/19446',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19446' },
     },
     'ZeyZey': { // on DICE (353 Northeast 61st Street, Miami, Florida 33137); its DICE venue page is the listing (2026-11-03)
@@ -456,7 +455,7 @@
       cssVar: '--v-zeyzey',
       color: '#aeea86',
       url: 'https://zeyzeymiami.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=zeyzeymiami.com&sz=128',
+      icon: 'marks/venues/zeyzeymiami.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/11875' },
     },
     'Watson Island Park': { // on DICE (1050 MacArthur Causeway, Miami Beach, Florida 33132); its DICE venue page is the listing (2026-11-03)
@@ -465,7 +464,7 @@
       cssVar: '--v-watsonislandpa',
       color: '#a8f0df',
       url: 'https://dice.fm/venue/19375',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19375' },
     },
     'Hialeah Park Casino': { // on DICE (2200 East 4th Avenue, Hialeah, Florida 33013); its DICE venue page is the listing (2026-11-03)
@@ -474,7 +473,7 @@
       cssVar: '--v-hialeahparkcas',
       color: '#63dfe3',
       url: 'https://dice.fm/venue/17603',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17603' },
     },
     'Edge': { // on DICE (114 Northeast 20th Terrace, Miami, Florida 33137); its DICE venue page is the listing (2026-11-03)
@@ -483,7 +482,7 @@
       cssVar: '--v-edge',
       color: '#8690ea',
       url: 'https://dice.fm/venue/18909',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18909' },
     },
     'Churchill\'s Pub': { // on DICE (5501 Northeast 2nd Avenue, Miami, Florida 33137); its DICE venue page is the listing (2026-11-03)
@@ -492,7 +491,7 @@
       cssVar: '--v-churchillspub',
       color: '#c7a8f0',
       url: 'https://dice.fm/venue/19186',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19186' },
     },
     'Upper East Side Hangout': { // on DICE (701 Northeast 79th Street, Miami, Florida 33138); its DICE venue page is the listing (2026-11-03)
@@ -501,7 +500,7 @@
       cssVar: '--v-uppereastsideh',
       color: '#e363db',
       url: 'https://dice.fm/venue/19308',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19308' },
     },
     'Boho House': { // on DICE (85 Northwest 25th Street, Miami, Florida 33127); its DICE venue page is the listing (2026-11-03)
@@ -510,7 +509,7 @@
       cssVar: '--v-bohohouse',
       color: '#9686ea',
       url: 'https://dice.fm/venue/19367',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19367' },
     },
     '73 West Flagler Street': { // on DICE (73 West Flagler Street, Miami, Florida 33130); its DICE venue page is the listing (2026-11-03)
@@ -519,7 +518,7 @@
       cssVar: '--v-73westflaglers',
       color: '#f0a8d8',
       url: 'https://dice.fm/venue/16638',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16638' },
     },
     'RamRod Bar': { // on DICE (1508 Northeast 4th Avenue, Fort Lauderdale, Florida 33304); its DICE venue page is the listing (2026-11-03)
@@ -529,7 +528,7 @@
       cssVar: '--v-ramrodbar',
       color: '#b9e363',
       url: 'https://dice.fm/venue/16374',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16374' },
     },
     'Tomorrowland': { // on DICE (1368 North Miami Avenue, Miami, Florida 33136); its DICE venue page is the listing (2026-11-03)
@@ -538,7 +537,7 @@
       cssVar: '--v-tomorrowland',
       color: '#86aaea',
       url: 'https://dice.fm/venue/14714',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/14714' },
     },
     'Apotheke Miami Beach': { // on DICE (921 Washington Avenue, Miami Beach, Florida 33139); its DICE venue page is the listing (2026-11-03)
@@ -547,7 +546,7 @@
       cssVar: '--v-apothekemiamib',
       color: '#f0a8af',
       url: 'https://dice.fm/venue/20475',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20475' },
     },
     'The Trip': { // on DICE (28 Northeast 14th Street, Miami, Florida 33132); its DICE venue page is the listing (2026-11-03)
@@ -556,7 +555,6 @@
       cssVar: '--v-trip',
       color: '#63e37d',
       url: 'https://www.thetripmiami.com',
-      icon: 'https://www.google.com/s2/favicons?domain=www.thetripmiami.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/8602' },
     },
     'The Sylvester': { // on DICE (3456 North Miami Avenue, Miami, Florida 33127); its DICE venue page is the listing (2026-11-03)
@@ -565,7 +563,7 @@
       cssVar: '--v-sylvester',
       color: '#86ea86',
       url: 'https://dice.fm/venue/19572',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19572' },
     },
     'Richardson Park': { // on DICE (1937 Wilton Drive, Wilton Manors, Florida 33305); its DICE venue page is the listing (2026-11-03)
@@ -575,7 +573,7 @@
       cssVar: '--v-richardsonpark',
       color: '#e6f0a8',
       url: 'https://dice.fm/venue/16373',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16373' },
     },
     'Timbr': { // on DICE (15 West Las Olas Boulevard, Fort Lauderdale, Florida 33301); its DICE venue page is the listing (2026-11-03)
@@ -585,7 +583,7 @@
       cssVar: '--v-timbr',
       color: '#63e392',
       url: 'https://dice.fm/venue/20219',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20219' },
     },
     'Gray Box Theater & Parking Lot': { // on DICE (1444 Northeast 26th Street, Wilton Manors, Florida 33305); its DICE venue page is the listing (2026-11-03)
@@ -596,7 +594,7 @@
       cssVar: '--v-grayboxtheater',
       color: '#86beea',
       url: 'https://dice.fm/venue/17133',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17133' },
     },
     'Paraíso Estéreo': { // on DICE (1306 North Miami Avenue, Miami, Florida 33136); its DICE venue page is the listing (2026-11-03)
@@ -605,7 +603,7 @@
       cssVar: '--v-paraisoestereo',
       color: '#e4a8f0',
       url: 'https://dice.fm/venue/9723',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/9723' },
     },
     'Eddie\'s Place': { // on DICE (12606 Southwest 8th Street, Miami, Florida 33184); its DICE venue page is the listing (2026-11-03)
@@ -614,7 +612,7 @@
       cssVar: '--v-eddiesplace',
       color: '#e3639f',
       url: 'https://dice.fm/venue/20351',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20351' },
     },
     'Lost City Brewing Company': { // on DICE (12207 Northeast 13th Court, North Miami, Florida 33161); its DICE venue page is the listing (2026-11-03)
@@ -623,7 +621,7 @@
       cssVar: '--v-lostcitybrewin',
       color: '#ea8c86',
       url: 'https://dice.fm/venue/19044',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/19044' },
     },
     'Fooq\'s': { // on DICE (150 Northwest 73rd Street, Miami, Florida 33150); its DICE venue page is the listing (2026-11-03)
@@ -632,7 +630,7 @@
       cssVar: '--v-fooqs',
       color: '#f0b9a8',
       url: 'https://dice.fm/venue/18670',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18670' },
     },
     'Kill Your Idol': { // on DICE (222 Española Way, Miami Beach, Florida 33139); its DICE venue page is the listing (2026-11-03)
@@ -641,7 +639,7 @@
       cssVar: '--v-killyouridol',
       color: '#e39663',
       url: 'https://dice.fm/venue/20523',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20523' },
     },
     'Novotel Miami Brickell': { // on DICE (1500 Southwest 1st Avenue, Miami, Florida 33129); its DICE venue page is the listing (2026-11-03)
@@ -650,7 +648,7 @@
       cssVar: '--v-novotelmiamibr',
       color: '#eabb86',
       url: 'https://dice.fm/venue/18450',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18450' },
     },
     'Casa Monarca': { // on DICE (91 Prospect Road, Oakland Park, Florida 33334); its DICE venue page is the listing (2026-11-03)
@@ -660,7 +658,7 @@
       cssVar: '--v-casamonarca',
       color: '#f0d8a8',
       url: 'https://dice.fm/venue/16375',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/16375' },
     },
   };
