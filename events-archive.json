@@ -1420,6 +1420,117 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6aeb2f4f4266e4000179cff8",
    "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Beanstalk: The Adventures of Jack and the Giant",
+   "date": "2026-11-08",
+   "time": "10:30:00",
+   "url": "https://www.ticketmaster.com/beanstalk-the-adventures-of-jack-and-ft-lauderdale-florida-11-08-2026/event/0D0064CFCD749CFC",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Stadium",
+   "title": "Miami Dolphins v Detroit Lions",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/miami-dolphins-v-detroit-lions-miami-florida-11-08-2026/event/0D00646CE5711328",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBS"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Beanstalk: The Adventures of Jack and the Giant",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/beanstalk-the-adventures-of-jack-and-ft-lauderdale-florida-11-08-2026/event/0D00649CBCEBBC34",
+   "type": "arts"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. Stetson Hatters",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-stetson-coral-gables-florida-11-08-2026/event/0D0065376D402A05",
+   "type": "sports"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Con Man - A True Crime Magic Show",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/con-man-a-true-crime-magic-ft-lauderdale-florida-11-08-2026/event/0D00651BCEBE9D50",
+   "type": "arts"
+  },
+  {
+   "venue": "Upside",
+   "title": "Sundance: Ocula",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6adfdeff28261c00016a2fbb",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "3RD Annual Chili Cook Off",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6a9b99749985a20001a83a77",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Aire",
+   "title": "Kuff, Alex Fleitas & Friends",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a70e323c0310e0001a17a9f",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Dany Ome / Kevincito El 13 - Tendencia US Tour 2026",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dany-ome-kevincito-el-13-tendencia-hollywood-florida-11-08-2026/event/0D006506A7D25623",
+   "type": "concert"
+  },
+  {
+   "venue": "RamRod Bar",
+   "title": "Leather Night At Ramrod",
+   "date": "2026-11-08",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a9b99d89efb3a0001c9a556",
+   "type": "concert"
+  },
+  {
+   "venue": "Fooq's",
+   "title": "Binh by Un_Mute",
+   "date": "2026-11-08",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aea3b1116528500016874d5",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Roujeee Tunes + Thunderpony",
+   "date": "2026-11-08",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe7cb502ef7e0001ff0371",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "Gagh + Orac & Cami",
+   "date": "2026-11-08",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6aebd49a86dc2200013d3bb1",
+   "type": "concert"
   }
  ]
 }
