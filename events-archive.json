@@ -1531,6 +1531,44 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6aebd49a86dc2200013d3bb1",
    "type": "concert"
+  },
+  {
+   "venue": "Rathskeller",
+   "title": "Bingo @ The Rathskeller",
+   "date": "2026-11-09",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aea26b02c05400001cc2878",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Men's Basketball vs. North Florida Ospreys",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-mens-basketball-vs-north-coral-gables-florida-11-09-2026/event/0D0065478FB249DD",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACC Network"
+    ]
+   }
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Onyx Social & Membership Night",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9b9a155dc5920001a17ef3",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Industry Sessions",
+   "date": "2026-11-09",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abfb251e1bbc2000194e90d",
+   "type": "concert"
   }
  ]
 }
