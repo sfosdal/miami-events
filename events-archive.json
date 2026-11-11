@@ -1569,6 +1569,75 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6abfb251e1bbc2000194e90d",
    "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Emo Orchestra with The Spill Canvas – An Evening of Emo",
+   "date": "2026-11-10",
+   "time": "18:00",
+   "url": "https://www.jointherevolution.net/concerts/emo-orchestra-with-the-spill-canvas-an-evening-of-emo-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Emo Orchestra With The Spill Canvas - An Evening Of Emo",
+   "date": "2026-11-10",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/emo-orchestra-with-the-spill-canvas-ft-lauderdale-florida-11-10-2026/event/0D00652FEB551352",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-10T17:19:17.841Z"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Women's Leather Night",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6aea67c353eca80001bcb3b6",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-10",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-10-2026/event/0D0064FBDE3184FB",
+   "type": "arts"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Unleashed — Pup, Critter & Handler Night",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9ba0a69985a20001e64007",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Il Volo Live In Concert",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/il-volo-live-in-concert-hollywood-florida-11-10-2026/event/0D006474EF497DE1",
+   "type": "concert"
+  },
+  {
+   "venue": "Churchill's Pub",
+   "title": "Comedy Night at Churchill's",
+   "date": "2026-11-10",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aea25e985f24b0001540752",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Late Groove: Shahar",
+   "date": "2026-11-10",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af1f371106ce50001c37d16",
+   "type": "concert"
   }
  ]
 }
