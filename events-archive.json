@@ -1638,6 +1638,90 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6af1f371106ce50001c37d16",
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvester",
+   "title": "Melo: Timeless Music Classics",
+   "date": "2026-11-11",
+   "time": "08:00",
+   "url": "https://dice.fm/event/6af1cdf90c187600019e51bb",
+   "type": "concert"
+  },
+  {
+   "venue": "Casa Monarca",
+   "title": "Leather Family Social",
+   "date": "2026-11-11",
+   "time": "17:30",
+   "url": "https://dice.fm/event/6a9ba0d99985a20001ef995a",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Rathskeller",
+   "title": "Family Feud!",
+   "date": "2026-11-11",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a7f7729cd6a6a000158976e",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Deer Tick",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/deer-tick-ft-lauderdale-florida-11-11-2026/event/0D006465EA85FDDB",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-10T17:19:17.841Z"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Doja Cat - Tour Ma Vie World Tour",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-miami-florida-11-11-2026/event/0D006339140D4C8B",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-11-2026/event/0D0064FBDE358504",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Gold Coast Jazz: Janis Siegel & The South Florida Jazz Orchestra",
+   "date": "2026-11-11",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/gold-coast-jazz-janis-siegel-the-ft-lauderdale-florida-11-11-2026/event/0D00650DCE4EA530",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Red Hanky Social",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9ba11a5dc5920001cfcff2",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Jessy & Friends",
+   "date": "2026-11-11",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aeb10a8d702400001f8994a",
+   "type": "concert"
+  },
+  {
+   "venue": "Queen Miami Beach",
+   "title": "Rivo",
+   "date": "2026-11-11",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac02a94f21c2f0001b449af",
+   "type": "concert"
   }
  ]
 }
