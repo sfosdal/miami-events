@@ -1722,6 +1722,139 @@
    "time": "23:00",
    "url": "https://dice.fm/event/6ac02a94f21c2f0001b449af",
    "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "The Kinky Toolbox - FLW26 Workshop",
+   "date": "2026-11-12",
+   "time": "13:00",
+   "url": "https://dice.fm/event/6ab193a003d6950001f2c066",
+   "end": "17:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "The Comedy Bar: Marcus Monroe",
+   "date": "2026-11-12",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6ae2a94b00d2a20001a2e915",
+   "end": "20:30",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "The Neighbourhood: The Wourld Tour",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-miami-florida-11-12-2026/event/0D006449E4C49B80",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. Saint Peter's Peacocks",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-saint-coral-gables-florida-11-12-2026/event/0D0065376D412A07",
+   "type": "sports"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Detroit Red Wings",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+",
+     "HULU",
+     "Disney+",
+     "SN+"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-12",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-12-2026/event/0D0064FBDE3A850F",
+   "type": "arts"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "MR. Eagle Meet N Greet",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9ba4d533f2e50001f2c246",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Stars and Strings",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/stars-and-strings-hollywood-florida-11-12-2026/event/0D0064FDBB566A38",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Davide De Pierro",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/davide-de-pierro-ft-lauderdale-florida-11-12-2026/event/0D0064BCBB586893",
+   "type": "arts"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Harness Party ft Trevor Oldroyd",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a9ba2c6e2913100015b5c46",
+   "type": "concert"
+  },
+  {
+   "venue": "Aire",
+   "title": "Aire: Angels (IL), Størmii, Francesco Theodoli",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ae8ddb59ac9250001579e2e",
+   "type": "concert"
+  },
+  {
+   "venue": "The Library Speakeasy",
+   "title": "Laughs at the Library Comedy Show",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aa9bbf70e140c000156a2bb",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Secret Thursdays",
+   "date": "2026-11-12",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adf934ee9571d0001604b82",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "4B",
+   "date": "2026-11-12",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6acd12180a3d6400017d20c5",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Nyksan",
+   "date": "2026-11-12",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aea22412c054000011c16aa",
+   "type": "concert"
   }
  ]
 }
