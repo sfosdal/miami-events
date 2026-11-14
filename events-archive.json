@@ -1855,6 +1855,246 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6aea22412c054000011c16aa",
    "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Mujer Verdadera '26",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.ticketmaster.com/mujer-verdadera-26-miami-florida-11-13-2026/event/0D006467C87DD219",
+   "age21": true
+  },
+  {
+   "venue": "Broward Center",
+   "title": "School House Rock: Smart Stage Matinee Series",
+   "date": "2026-11-13",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/school-house-rock-smart-stage-matinee-ft-lauderdale-florida-11-13-2026/event/0D0064979EDC0F8A",
+   "type": "arts"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Men's Basketball vs. North Alabama Lions",
+   "date": "2026-11-13",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-mens-basketball-vs-north-coral-gables-florida-11-13-2026/event/0D0065478FB449E6",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACC Network"
+    ]
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-ft-lauderdale-florida-11-13-2026/event/0D006471E7722165",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "O.A.R. Three Decades Tour",
+   "date": "2026-11-13",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/oar-three-decades-tour-hollywood-florida-11-13-2026/event/0D00635B8CDB2B51",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "MR. Eagle Wilton Manors Competition",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a9ba3169985a2000127e1fd",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "WWE Friday Night SmackDown",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-13-2026/event/0D0064FBDE3E8514",
+   "type": "arts"
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aca7316cffedc0001c86aee",
+   "end": "21:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Cleveland Cavaliers (Emirates NBA Cup Game)",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-cleveland-cavaliers-emirates-miami-florida-11-13-2026/event/0D00650C8C17375F",
+   "type": "sports"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Work of Heart: The Happening: A Theatrical Mixtape Volume VIII",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/work-of-heart-the-happening-a-ft-lauderdale-florida-11-13-2026/event/0D0064FEC1947752",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Davide De Pierro",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/davide-de-pierro-ft-lauderdale-florida-11-13-2026/event/0D00646ABFF5AFDF",
+   "type": "arts"
+  },
+  {
+   "venue": "Upside",
+   "title": "Roy Rosenfeld",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abad7d0cfb4f20001ebff52",
+   "type": "concert"
+  },
+  {
+   "venue": "ZeyZey",
+   "title": "Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc Havana",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ad760d4f2e7b00001b10371",
+   "type": "concert"
+  },
+  {
+   "venue": "Timbr",
+   "title": "2AM, A Toxic R&B Party",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6acd16f26ee4660001a2520a",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Armen Miran",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aa56a8b4e816400010ea54c",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Rabbit In The Moon - Live",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ab3fb9d80f9a500012b3792",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Adiel & Yu Su",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a85fc0f21cf70000116039a",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Victory Party ft. Karsten Sollors",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a9ba37ce2913100016ee2bd",
+   "type": "concert"
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac32278f2b2bf00018fc262",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Echonomist + Jake Mercer",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6acfae42e5ae0c0001e0e121",
+   "type": "concert"
+  },
+  {
+   "venue": "Factory Town",
+   "title": "UNREAL",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a84879f8e0c81000177fc08",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Tori Seagel, Amdana, Sebastian Morxx, Laura Carmer",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af1fc86dd78ff00012dd561",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Exit 2C: GUI2IN",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aad798fa742680001fbc141",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "James Hype + HILLS",
+   "date": "2026-11-13",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac681e6ede6160001275006",
+   "type": "concert"
+  },
+  {
+   "venue": "Queen Miami Beach",
+   "title": "Stephan Jolk",
+   "date": "2026-11-13",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6aecd5fb59b3330001829954",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Tre Reynolds + Ferra Black",
+   "date": "2026-11-13",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abbd7cb208dff0001ff466c",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "NOTION",
+   "date": "2026-11-13",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6a9050c13e2dcd00013c2e7e",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "Nova Social Club Anniversary + Roberto Torres Bday",
+   "date": "2026-11-13",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6aeb2ec6553e2a000119b5f3",
+   "type": "concert"
   }
  ]
 }
