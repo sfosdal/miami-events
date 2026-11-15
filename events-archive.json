@@ -2095,6 +2095,269 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6aeb2ec6553e2a000119b5f3",
    "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Stadium",
+   "title": "Miami Hurricanes vs Duke Blue Devils",
+   "date": "2026-11-14",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-vs-duke-blue-devils-miami-florida-11-14-2026/event/0D0064FCBFB76F26",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ABC"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Work of Heart: The Happening: A Theatrical Mixtape Volume VIII",
+   "date": "2026-11-14",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/work-of-heart-the-happening-a-ft-lauderdale-florida-11-14-2026/event/0D0064FEC199775E",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-14",
+   "time": "13:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-14-2026/event/0D0064FBDE428519",
+   "type": "arts"
+  },
+  {
+   "venue": "Gray Box Theater & Parking Lot",
+   "title": "Boundless Block Party",
+   "date": "2026-11-14",
+   "time": "14:00",
+   "url": "https://dice.fm/event/6a9bb069e291310001a9162f",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "80'S Day Disco",
+   "date": "2026-11-14",
+   "time": "15:00",
+   "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
+   "end": "20:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Space Yoga",
+   "date": "2026-11-14",
+   "time": "16:20",
+   "url": "https://dice.fm/event/6af4850488e003000128290e",
+   "end": "17:45",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "Haiti vs U.S. Men's National Soccer Team",
+   "date": "2026-11-14",
+   "time": "16:30:00",
+   "url": "https://www.ticketmaster.com/haiti-vs-us-mens-national-soccer-miami-florida-11-14-2026/event/0D006556A767692E",
+   "type": "sports"
+  },
+  {
+   "venue": "loanDepot park",
+   "title": "Choque de Gigantes: Tiburones vs Magallanes",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.mlb.com/marlins/ballpark/events"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Work of Heart: The Happening: A Theatrical Mixtape Volume VIII",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/work-of-heart-the-happening-a-ft-lauderdale-florida-11-14-2026/event/0D0064FEC19D7764",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Paula Poundstone",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/paula-poundstone-ft-lauderdale-florida-11-14-2026/event/0D0064ACD53AD069",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-14-2026/event/0D0064FBDE478522",
+   "type": "arts"
+  },
+  {
+   "venue": "Upper East Side Hangout",
+   "title": "Bingo Night",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aea3ab92c054000013cd41a",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Carnaval Fest – Gran Coronación 2026",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://jlkc.com/event/14993/",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Detroit Pistons",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-detroit-pistons-miami-florida-11-14-2026/event/0D00650C8C1C376C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBA TV"
+    ]
+   }
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "El Cuarteto De Nos",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/el-cuarteto-de-nos-miami-beach-florida-11-14-2026/event/0D006388F67DA731",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Cubatonazo - 10 Year Anniversario",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/cubatonazo-10-year-anniversario-coral-gables-florida-11-14-2026/event/0D006518E6A4D131",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Rod Wave: Don't Look Down Tour",
+   "date": "2026-11-14",
+   "time": "20:30:00",
+   "url": "https://seatgeek.com/rod-wave-tickets/sunrise-florida-amerant-bank-arena-2026-11-14-8-30-pm/concert/18312360",
+   "type": "concert"
+  },
+  {
+   "venue": "Upside",
+   "title": "Anthony Attalla - Navigate to Groove Cruise Miami",
+   "date": "2026-11-14",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6acfc6d99caad40001328c72",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Jeremy Olander",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aa56bec3af2df00010896f3",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Jessica Audiffred",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a39388b80183200011c1c6f",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Bill Patrick b2b Bort (All Night Long)",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ae0e0da3b35970001ec2268",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Dominate Dance Party ft. GSP",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a9ba6ea9985a20001eadf8f",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Henrik Schwarz (Live) + Inbal",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ace610bb2296a00013ef30e",
+   "type": "concert"
+  },
+  {
+   "venue": "Factory Town",
+   "title": "ODESZA",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a3077721b98d10001598c8a",
+   "type": "concert"
+  },
+  {
+   "venue": "Edge",
+   "title": "Komashov, Rodrigo Vieira, DMeyer, Røye, Divina",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad6b8809d5bb500018b0229",
+   "type": "concert"
+  },
+  {
+   "venue": "Tomorrowland",
+   "title": "MOVE",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6acf7130fe6c840001a80049",
+   "type": "concert"
+  },
+  {
+   "venue": "Paraíso Estéreo",
+   "title": "The PLAYL1ST Movember Edition",
+   "date": "2026-11-14",
+   "time": "22:30",
+   "url": "https://dice.fm/event/6ae9b96f835ca80001896272",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Carl Cox + Carlita",
+   "date": "2026-11-14",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6aac10c51773540001e4c41f",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "OTHERWORLD 5 Year Anniversary",
+   "date": "2026-11-14",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe7d4787e1d10001e5ab10",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "suero x Stas: EQ + Isla Den",
+   "date": "2026-11-14",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6a88676d138c56000110cb09",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "305 Mandy & Yulio B",
+   "date": "2026-11-14",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6af204f8dd78ff0001e1790d",
+   "type": "concert"
   }
  ]
 }
