@@ -2358,6 +2358,119 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6af204f8dd78ff0001e1790d",
    "type": "concert"
+  },
+  {
+   "venue": "loanDepot park",
+   "title": "Choque de Gigantes: Tiburones vs Magallanes",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://www.mlb.com/marlins/ballpark/events"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-15-2026/event/0D0064FBDE4B852A",
+   "type": "arts"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Symphony of the Americas: The Sound of Freedom",
+   "date": "2026-11-15",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/symphony-of-the-americas-the-sound-ft-lauderdale-florida-11-15-2026/event/0D0064FBAB025540",
+   "type": "arts"
+  },
+  {
+   "venue": "ZeyZey",
+   "title": "Club 1BD Miami ft. Chvmeleon, Hunny Bee, Pressure Point, & Spinelli",
+   "date": "2026-11-15",
+   "time": "15:00",
+   "url": "https://dice.fm/event/6a0eff0b5ffbf40001c9044c",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Work of Heart: The Happening: A Theatrical Mixtape Volume VIII",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/work-of-heart-the-happening-a-ft-lauderdale-florida-11-15-2026/event/0D0064FEC1A2776B",
+   "type": "arts"
+  },
+  {
+   "venue": "Upside",
+   "title": "Sundance with Rodriguez JR.",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://dice.fm/event/6ac5341798d74600016b8ed4",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Let’s Go Bananas — Banana Bread Contest",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a9ba7e1ec37cb0001b7c510",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Bowling for Soup",
+   "date": "2026-11-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/bowling-for-soup-ft-lauderdale-florida-11-15-2026/event/0D0064D329C2583A",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "UB40 - The Unstoppable Tour 2026",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ub40-the-unstoppable-tour-2026-hollywood-florida-11-15-2026/event/0D006435CFE7A719",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-15-2026/event/0D0064FBDE4F852F",
+   "type": "arts"
+  },
+  {
+   "venue": "Aire",
+   "title": "Tony Guerra & Lousy Lover",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a70e33ddff8500001ab5b38",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Rod Wave: Don't Look Down Tour",
+   "date": "2026-11-15",
+   "time": "20:30:00",
+   "url": "https://seatgeek.com/rod-wave-tickets/sunrise-florida-amerant-bank-arena-2026-11-15-8-pm/concert/18312361",
+   "type": "concert"
+  },
+  {
+   "venue": "RamRod Bar",
+   "title": "Closing Party",
+   "date": "2026-11-15",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a9ba924e7ff3a0001e5ba59",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Franc Fala + Aryeh",
+   "date": "2026-11-15",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe7eac09571500016a1283",
+   "type": "concert"
   }
  ]
 }
