@@ -2471,6 +2471,61 @@
    "time": "23:00",
    "url": "https://dice.fm/event/6abe7eac09571500016a1283",
    "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. Le Moyne Dolphins",
+   "date": "2026-11-16",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-le-coral-gables-florida-11-16-2026/event/0D0065376D432A0B",
+   "type": "sports"
+  },
+  {
+   "venue": "Rathskeller",
+   "title": "Bingo @ The Rathskeller",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aea26c17426be0001fb1907",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Houston Rockets",
+   "date": "2026-11-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-houston-rockets-miami-florida-11-16-2026/event/0D00650C8E933B3A",
+   "type": "sports",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:17:52.666Z",
+    "from": 30.75
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Yebba",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/yebba-miami-beach-florida-11-16-2026/event/0D006513A82184C9",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:18:12.807Z",
+    "from": 65.43
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "M2",
+   "title": "Industry Sessions",
+   "date": "2026-11-16",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abfb3892f95f8000144fb71",
+   "type": "concert"
   }
  ]
 }
