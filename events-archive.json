@@ -2526,6 +2526,114 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6abfb3892f95f8000144fb71",
    "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Shakespeare 45: Smart Stage Matinee Series",
+   "date": "2026-11-17",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/shakespeare-45-smart-stage-matinee-series-ft-lauderdale-florida-11-17-2026/event/0D006497B37DAA03",
+   "type": "arts",
+   "tickets": {
+    "box": 366,
+    "resale": 0,
+    "checked": "2026-11-16T23:20:24.328Z",
+    "from": 8.48
+   }
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Men's Basketball vs. Rider Broncos",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-mens-basketball-vs-rider-coral-gables-florida-11-17-2026/event/0D0065478FB549F4",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACCNX"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:20:44.397Z",
+    "from": 11.5
+   }
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Edmonton Oilers",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SN",
+     "TVAS",
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-17-2026/event/0D0064FBDE548534",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:21:04.477Z",
+    "from": 57.82
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Symphony of the Americas: The Sound of Freedom",
+   "date": "2026-11-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/symphony-of-the-americas-the-sound-ft-lauderdale-florida-11-17-2026/event/0D0064FBAB065543",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:21:24.623Z",
+    "from": 48.74
+   }
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Jack White Live 2026",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jack-white-live-2026-miami-beach-florida-11-17-2026/event/0D006487007D9ECA",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:21:44.687Z",
+    "from": 82.8
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Churchill's Pub",
+   "title": "Comedy Night at Churchill's",
+   "date": "2026-11-17",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aea25f116528500017415fa",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Late Groove: Caleb Jackson",
+   "date": "2026-11-17",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af20e2465b155000133698a",
+   "type": "concert"
   }
  ]
 }
