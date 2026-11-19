@@ -2634,6 +2634,96 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6af20e2465b155000133698a",
    "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Milwaukee vs. Vice City (Miami HEAT vs. Milwaukee Bucks)",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-vs-vice-city-miami-heat-miami-florida-11-18-2026/event/0D00650C8D3A38C3",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:30:11.156Z",
+    "from": 166.98
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Lindsey Stirling - The Snow Waltz Tour",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-hollywood-florida-11-18-2026/event/0D006514A7627ABB",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:30:31.161Z",
+    "from": 56.8
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Hunxho's \"2Night Only\"",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hunxhos-2night-only-ft-lauderdale-florida-11-18-2026/event/0D006536E0F1D2B1",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-14T17:19:48.378Z"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-18",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-18-2026/event/0D0064FBDE588546",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:31:01.206Z",
+    "from": 57.82
+   }
+  },
+  {
+   "venue": "The Sylvester",
+   "title": "Melo: Timeless Music Classics",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6afb1d103f1bff000192a6c3",
+   "type": "concert"
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Jack White Live 2026",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jack-white-live-2026-miami-beach-florida-11-18-2026/event/0D006487007F9ECC",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Jessy & Friends",
+   "date": "2026-11-18",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af4a629c7e5ac00014f3aac",
+   "type": "concert"
+  },
+  {
+   "venue": "Queen Miami Beach",
+   "title": "Leblanc",
+   "date": "2026-11-18",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ace26cf61c60500015db9ae",
+   "type": "concert"
   }
  ]
 }
