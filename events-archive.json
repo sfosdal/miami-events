@@ -2724,6 +2724,119 @@
    "time": "23:00",
    "url": "https://dice.fm/event/6ace26cf61c60500015db9ae",
    "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "The Comedy Bar: Kellen Erskine",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6ae2a9d6be58e900015688d7",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Women's Basketball vs. FIU Panthers",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-womens-basketball-vs-fiu-coral-gables-florida-11-19-2026/event/0D0065376D452A0F",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:16:50.961Z",
+    "from": 5.75
+   }
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Olivia Rodrigo: The Unraveled Tour",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://seatgeek.com/olivia-rodrigo-tickets/sunrise-florida-amerant-bank-arena-2026-11-19-7-30-pm/concert/18208621",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-19-2026/event/0D0064FBDE5D854F",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:17:11.021Z",
+    "from": 57.82
+   }
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Dante Gebel - World Tour Despedida 2026",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dante-gebel-world-tour-despedida-2026-miami-florida-11-19-2026/event/0D006472C0E3E9AC",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:17:31.043Z",
+    "from": 40.26
+   }
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Los Parceritos",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/los-parceritos-miami-beach-florida-11-19-2026/event/0D0064D0EBA1BE33",
+   "type": "arts"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Sebastian Maniscalco Live",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sebastian-maniscalco-live-hollywood-florida-11-19-2026/event/0D006464AA60900F",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:18:11.292Z",
+    "from": 251.95
+   }
+  },
+  {
+   "venue": "Aire",
+   "title": "Aire: Dmeyer, Naza Gold, Dario, Idossa, Desert Sai",
+   "date": "2026-11-19",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aecaa675616c30001a45c28",
+   "type": "concert"
+  },
+  {
+   "venue": "The Library Speakeasy",
+   "title": "Laughs at the Library Comedy Show",
+   "date": "2026-11-19",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aa9bc1c6981220001b777db",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Secret Thursdays",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aea0d4916528500018daed1",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "The Groove Palace: Rayzir",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad8e836f3f79d000131952b",
+   "type": "concert"
   }
  ]
 }
