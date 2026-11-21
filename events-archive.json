@@ -2837,6 +2837,230 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6ad8e836f3f79d000131952b",
    "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Eli Escobar & DJ Lloyd",
+   "date": "2026-11-20",
+   "time": "00:00",
+   "url": "https://dice.fm/event/6adfb3d75fe1a2000122e33c",
+   "type": "concert"
+  },
+  {
+   "venue": "Watsco Center",
+   "title": "Miami Hurricanes Men's Basketball vs. Manhattan Jaspers",
+   "date": "2026-11-20",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-mens-basketball-vs-manhattan-coral-gables-florida-11-20-2026/event/0D0065478FB74A02",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACC Network"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:28:52.102Z",
+    "from": 11.5
+   }
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Olivia Rodrigo: The Unraveled Tour",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://seatgeek.com/olivia-rodrigo-tickets/sunrise-florida-amerant-bank-arena-2026-11-20-7-30-pm/concert/18208620",
+   "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Professor Brian Cox - Emergence",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/professor-brian-cox-emergence-miami-florida-11-20-2026/event/0D006339A71D2E42",
+   "age21": true,
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:29:12.114Z",
+    "from": 62.2
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-20-2026/event/0D0064FBDE62855E",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:29:32.129Z",
+    "from": 199.92
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Kristin Key: The Ca-Caw Tour",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/kristin-key-the-cacaw-tour-ft-lauderdale-florida-11-20-2026/event/0D0064BAB51A95F2",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:29:52.157Z",
+    "from": 90
+   }
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aca736224ac52000182d395",
+   "end": "21:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Kill Your Idol",
+   "title": "Kill Your Idol // 11/20",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aea265a85f24b00015de460",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "John Summit - Ctrl Escape Arena Tour",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-miami-florida-11-20-2026/event/0D0064B2B883819E",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "ZAYN: The Konnakol Tour",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-miami-florida-11-20-2026/event/0D00643DA73B9132",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-13T01:21:25.984Z"
+  },
+  {
+   "venue": "The Fillmore Miami Beach",
+   "title": "Chino y Nacho",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/chino-y-nacho-miami-beach-florida-11-20-2026/event/0D0064CDAE73A237",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Sebastian Maniscalco Live",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sebastian-maniscalco-live-hollywood-florida-11-20-2026/event/0D006466B03FB0D3",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:30:52.549Z",
+    "from": 251.95
+   }
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Halo Varga",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aa978264e3a280001cc3e7e",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Roni Size",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a9840d31cfa4500010544f6",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "DECADENT ft. Guy Scheiman",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad456221543810001deb0d9",
+   "type": "concert"
+  },
+  {
+   "venue": "South Beach Brewing Company",
+   "title": "Sillies on South Beach Comedy Show",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac3227a2aefc5000146d8cc",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Upside",
+   "title": "Darude - Hype Tour 2026",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a41a355a414cd0001c30667",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Ctrl Room",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af258c638f2800001313edd",
+   "type": "concert"
+  },
+  {
+   "venue": "ZeyZey",
+   "title": "Solmates Presents Sparrow (CH)",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adff5fd8be4730001f56177",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "The Vault Presents: Chris Lorenzo, Sammy Virji + Special Guests",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ab54b4737b4c00001654ff2",
+   "type": "concert"
+  },
+  {
+   "venue": "Queen Miami Beach",
+   "title": "Jean Marc - Orsay",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6afcfe5117bb760001040494",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Floyd at The Vault: Fletch",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe802c0957150001d27a61",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "Mujica + Friends",
+   "date": "2026-11-20",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6af1c67c425fd7000186abc3",
+   "type": "concert"
   }
  ]
 }
