@@ -3061,6 +3061,298 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6af1c67c425fd7000186abc3",
    "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Rabbithole: The First Descent",
+   "date": "2026-11-21",
+   "time": "12:00",
+   "url": "https://dice.fm/event/6aff67983eb97300013707c0",
+   "end": "16:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Fort Lauderdale Children's Ballet Theatre: Cinderella",
+   "date": "2026-11-21",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/fort-lauderdale-childrens-ballet-theatre-cinderella-ft-lauderdale-florida-11-21-2026/event/0D00652BA3639A59",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:56:32.155Z",
+    "from": 47.2
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-21",
+   "time": "13:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-21-2026/event/0D0064FBDE668563",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:56:52.196Z",
+    "from": 164.02
+   }
+  },
+  {
+   "venue": "Boho House",
+   "title": "Intriga x Boho House: Day Party Vol. 5",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "url": "https://dice.fm/event/6af101d36d33060001ead419",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Fort Lauderdale Children's Ballet Theatre: Cinderella",
+   "date": "2026-11-21",
+   "time": "16:30:00",
+   "url": "https://www.ticketmaster.com/fort-lauderdale-childrens-ballet-theatre-cinderella-ft-lauderdale-florida-11-21-2026/event/0D00652BA3679A6B",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:57:12.307Z",
+    "from": 47.2
+   }
+  },
+  {
+   "venue": "FPL Solar Amphitheater",
+   "title": "Christmas Tree Lighting",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "https://www.bayfrontparkmiami.com/events/christmas-tree-lighting-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Earlybirds Club",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://www.jointherevolution.net/concerts/earlybirds-club-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "NU Stadium",
+   "title": "MLS Cup Playoffs Game 1 - Inter Miami CF vs Columbus Crew",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/mls-cup-playoffs-game-1-inter-miami-florida-11-21-2026/event/0D00654FEC0EE15A",
+   "type": "sports",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:42:22.315Z",
+    "from": 41.65
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Buffalo Sabres",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "Earlybirds Club - 80s Night",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/earlybirds-club-80s-night-ft-lauderdale-florida-11-21-2026/event/0D006539391F50D0",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 440,
+    "resale": 2,
+    "checked": "2026-11-21T00:42:24.472Z",
+    "from": 22.1
+   }
+  },
+  {
+   "venue": "Kemistry",
+   "title": "The Comedy Bar: Kel Perez",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6b0175efe94b7700019a39e4",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Stadium",
+   "title": "Miami Hurricanes vs Virginia Tech Hokies",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/miami-hurricanes-vs-virginia-tech-hokies-miami-florida-11-21-2026/event/0D0064FCBFBA6F2A",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN",
+     "Disney+"
+    ]
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-21-2026/event/0D0064FBDE6B8574",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:42:44.667Z",
+    "from": 232
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Edge",
+   "title": "Nativos (BR), Ketryn Goetten, Solune, Conosur",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6af518402000850001e8dd74",
+   "type": "concert"
+  },
+  {
+   "venue": "Upper East Side Hangout",
+   "title": "Bingo Night",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aea3ac01652850001161770",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Lost City Brewing Company",
+   "title": "Lost in Laughs Miami Comedy Show",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a85edf740be3300019c3829",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "John Summit - Ctrl Escape Arena Tour",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-miami-florida-11-21-2026/event/0D0064B3A9E1800A",
+   "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "La Mafia - Epic Tour 46",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/la-mafia-epic-tour-46-miami-florida-11-21-2026/event/0D0064C989B34CC2",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:43:04.711Z",
+    "from": 39.7
+   }
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Sebastian Maniscalco Live",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sebastian-maniscalco-live-hollywood-florida-11-21-2026/event/0D006466B061B100",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:43:24.760Z",
+    "from": 251.95
+   }
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Fernando Olaya [The Soundgarden / Balance Music]",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aabf64e76c1150001cda0f0",
+   "type": "concert"
+  },
+  {
+   "venue": "Kemistry",
+   "title": "Star Monster",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a64b93c7b94a300012b1b10",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Silvie Loto",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adb9490e08a040001e559ea",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "CARNAL ft. Alex Ramos",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad456f4849ebe0001fe5746",
+   "type": "concert"
+  },
+  {
+   "venue": "Upside",
+   "title": "Gaeb",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6afcc4a8969e980001c8542f",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Deer Jade: I AM You Showcase",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad65d43006b2b00011ed21f",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Floyd at The Vault: Joe Kay presents TEMPO",
+   "date": "2026-11-21",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe812a02ef7e0001ee351d",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "The Vault: Justice, Barry Can't Swim & Overmono",
+   "date": "2026-11-21",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac69100272a2a00015116c5",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "GAEB, Deiv Schon & Gabriel Liberty",
+   "date": "2026-11-21",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6af2051f3739e40001814d49",
+   "type": "concert"
   }
  ]
 }
