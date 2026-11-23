@@ -3353,6 +3353,148 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6af2051f3739e40001814d49",
    "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Fort Lauderdale Children's Ballet Theatre: Cinderella",
+   "date": "2026-11-22",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/fort-lauderdale-childrens-ballet-theatre-cinderella-ft-lauderdale-florida-11-22-2026/event/0D00652BA36B9A75",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:16:21.769Z",
+    "from": 47.2
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-22",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-22-2026/event/0D0064FBDE6F8579",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T01:00:24.202Z",
+    "from": 567.24
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Upside",
+   "title": "Sundance with Budakid",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://dice.fm/event/6ab496d98b15560001c35523",
+   "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Fort Lauderdale Children's Ballet Theatre: Cinderella",
+   "date": "2026-11-22",
+   "time": "16:30:00",
+   "url": "https://www.ticketmaster.com/fort-lauderdale-childrens-ballet-theatre-cinderella-ft-lauderdale-florida-11-22-2026/event/0D00652BA3709A84",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T01:00:44.297Z",
+    "from": 47.2
+   }
+  },
+  {
+   "venue": "Kaseya Center",
+   "title": "Miami Heat vs. Oklahoma City Thunder",
+   "date": "2026-11-22",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/miami-heat-vs-oklahoma-city-thunder-miami-florida-11-22-2026/event/0D00650C8C8637E7",
+   "type": "sports",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T01:17:22.123Z",
+    "from": 81.18
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Hamilton (Touring)",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hamilton-touring-ft-lauderdale-florida-11-22-2026/event/0D0064FBDE74857B",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:17:42.141Z",
+    "from": 57.82
+   }
+  },
+  {
+   "venue": "Aire",
+   "title": "Thunderpony & Dalva",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a70e360c0310e000199194a",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Ground at The Vault: Headache",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a079483f03f2d0001135fb0",
+   "type": "concert"
+  },
+  {
+   "venue": "James L. Knight Center",
+   "title": "Pimpinela USA Tour Leyendas",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/pimpinela-usa-tour-leyendas-miami-florida-11-22-2026/event/0D0064F5882D3262",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "Sebastian Maniscalco Live",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sebastian-maniscalco-live-hollywood-florida-11-22-2026/event/0D006466B06FB118",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:18:22.561Z",
+    "from": 94.85
+   }
+  },
+  {
+   "venue": "Club Space",
+   "title": "The Vault presents Circoloco Records Radio",
+   "date": "2026-11-22",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac69157ede6160001290447",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Floyd at The Vault: Divorcée presents Greg Wilson",
+   "date": "2026-11-22",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abe81edcf1f4100017bc3b4",
+   "type": "concert"
+  },
+  {
+   "venue": "The Trip",
+   "title": "Twiga & Santeø",
+   "date": "2026-11-22",
+   "time": "23:45",
+   "url": "https://dice.fm/event/6afefb1b7e8190000189e048",
+   "type": "concert"
   }
  ]
 }
