@@ -3495,6 +3495,23 @@
    "time": "23:45",
    "url": "https://dice.fm/event/6afefb1b7e8190000189e048",
    "type": "concert"
+  },
+  {
+   "venue": "Rathskeller",
+   "title": "Bingo @ The Rathskeller",
+   "date": "2026-11-23",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aea26ca7426be0001dd417d",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "M2",
+   "title": "Industry Sessions",
+   "date": "2026-11-23",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abfb4612aefc500014be728",
+   "type": "concert"
   }
  ]
 }
