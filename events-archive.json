@@ -3512,6 +3512,81 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6abfb4612aefc500014be728",
    "type": "concert"
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Youth Fall Musical: The Spongebob Musical - Youth Edition",
+   "date": "2026-11-24",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/youth-fall-musical-the-spongebob-musical-ft-lauderdale-florida-11-24-2026/event/0D006535B0466683",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:31:48.060Z",
+    "from": 23.6
+   }
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "AJ McLean presents Alexander James : The Better Man Tour",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.jointherevolution.net/concerts/aj-mclean-presents-alexander-james-the-better-man-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Disney Worlds Collide Concert Tour",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Live",
+   "title": "AJ McLean presents Alexander James: The Better Man Tour",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-ft-lauderdale-florida-11-24-2026/event/0D0064D4E738B551",
+   "type": "concert",
+   "tickets": {
+    "box": 999,
+    "resale": 11,
+    "checked": "2026-11-23T00:31:50.979Z",
+    "from": 59.5
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Youth Fall Musical: The Spongebob Musical - Youth Edition",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/youth-fall-musical-the-spongebob-musical-ft-lauderdale-florida-11-24-2026/event/0D006535B04A6693",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:32:11.028Z",
+    "from": 23.6
+   }
+  },
+  {
+   "venue": "Churchill's Pub",
+   "title": "Comedy Night at Churchill's",
+   "date": "2026-11-24",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aea25f87426be0001401bf0",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Late Groove: Andy Martinez",
+   "date": "2026-11-24",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6b04917cc650810001fafeda",
+   "type": "concert"
   }
  ]
 }
