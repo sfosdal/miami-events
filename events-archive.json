@@ -3587,6 +3587,119 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6b04917cc650810001fafeda",
    "type": "concert"
+  },
+  {
+   "venue": "Amerant Bank Arena",
+   "title": "Florida Panthers vs. Ottawa Senators",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.amerantbankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SCRIPPS"
+    ]
+   }
+  },
+  {
+   "venue": "The Sylvester",
+   "title": "Melo: Timeless Music Classics",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6afda1d736a9460001fabe13",
+   "type": "concert"
+  },
+  {
+   "venue": "Hard Rock Live",
+   "title": "STING 3.0 Tour",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sting-30-tour-hollywood-florida-11-25-2026/event/0D00650CA8485EC7",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:37:25.827Z",
+    "from": 141.35
+   }
+  },
+  {
+   "venue": "Broward Center",
+   "title": "Youth Fall Musical: The Spongebob Musical - Youth Edition",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/youth-fall-musical-the-spongebob-musical-ft-lauderdale-florida-11-25-2026/event/0D006535B04E669B",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:37:45.885Z",
+    "from": 23.6
+   }
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Thanksgiving Week Pass",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6af20c20dc27ff0001953f42",
+   "type": "concert"
+  },
+  {
+   "venue": "Sable",
+   "title": "Insatiable Records: Hector Couto b2b Yaya",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ada3e793202e900013c2751",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Jessy & Friends",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af35f8e029f9100019e2e8f",
+   "type": "concert"
+  },
+  {
+   "venue": "Jolene Sound Room",
+   "title": "Helena Hauff",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a8b4d68fec4480001a68ffe",
+   "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Thanksgiving Eve ft. Rudi Artavia",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af192097b11070001d10797",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "Franky Rizardo + East End Dubs",
+   "date": "2026-11-25",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ac68eedf6f26b00017c493b",
+   "type": "concert"
+  },
+  {
+   "venue": "Queen Miami Beach",
+   "title": "Sasson",
+   "date": "2026-11-25",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6ad8f91fe5eaa500013edc7f",
+   "type": "concert"
+  },
+  {
+   "venue": "Club Space",
+   "title": "PAYÉ",
+   "date": "2026-11-25",
+   "time": "23:00",
+   "url": "https://dice.fm/event/6abbde6877c894000165e049",
+   "type": "concert"
   }
  ]
 }
