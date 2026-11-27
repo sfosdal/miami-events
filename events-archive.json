@@ -3700,6 +3700,30 @@
    "time": "23:00",
    "url": "https://dice.fm/event/6abbde6877c894000165e049",
    "type": "concert"
+  },
+  {
+   "venue": "Eagle Wilton Manors",
+   "title": "Giving Thanks ft. DJ Adora",
+   "date": "2026-11-26",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6af1938a879037000140b65e",
+   "type": "concert"
+  },
+  {
+   "venue": "Aire",
+   "title": "Orel Sasportas (IL), Rodrigo Vieira, Bagdelan",
+   "date": "2026-11-26",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6afc9a3bd9362500018b59e2",
+   "type": "concert"
+  },
+  {
+   "venue": "Do Not Sit On The Furniture",
+   "title": "Secret Thursdays",
+   "date": "2026-11-26",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aecad8e4f38a6000158d762",
+   "type": "concert"
   }
  ]
 }
